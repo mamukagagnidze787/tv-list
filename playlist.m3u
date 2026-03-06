@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Pirveli Arkhi
-https://1tv-live.itv.ge/1tv/smil:1tv.smil/playlist.m3u8
 #EXTINF:-1,Imedi
-http://185.70.53.50:81/hls/imedi.m3u8
+http://94.23.161.168:8000/play/a013
 #EXTINF:-1,Rustavi 2
-http://185.70.53.50:81/hls/rustavi2.m3u8
-#EXTINF:-1,Comedy Arkhi
-http://185.70.53.50:81/hls/comedy.m3u8
-#EXTINF:-1,Marao
-http://185.70.53.50:81/hls/marao.m3u8
-#EXTINF:-1,Adjara Sport 1
-https://adjarasport1.cdn.ottrun.com/adjara/adjara_sport_1/playlist.m3u8
-#EXTINF:-1,National Geographic
-https://okkotv-live.cdn.ngeniustv.net/hls/CH_NATGEOWILD/variant.m3u8
+http://94.23.161.168:8000/play/a018
+#EXTINF:-1,Pirveli Arkhi
+http://94.23.161.168:8000/play/a011
