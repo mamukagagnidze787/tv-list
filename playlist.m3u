@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Imedi
-http://94.23.161.168:8000/play/a013
-#EXTINF:-1,Rustavi 2
-http://94.23.161.168:8000/play/a018
-#EXTINF:-1,Pirveli Arkhi
-http://94.23.161.168:8000/play/a011
-#EXTINF:-1,Imedi (Magti Test)
-https://imedi-live.itv.ge/imedi/smil:imedi.smil/playlist.m3u8
-#EXTINF:-1,Rustavi 2 (Magti Test)
-https://rustavi2-live.itv.ge/rustavi2/smil:rustavi2.smil/playlist.m3u8
+#EXTINF:-1,Imedi (Work)
+https://itv-live.itv.ge/imedi/smil:imedi.smil/playlist.m3u8
+#EXTINF:-1,Rustavi 2 (Work)
+https://itv-live.itv.ge/rustavi2/smil:rustavi2.smil/playlist.m3u8
+#EXTINF:-1,Pirveli Arkhi (Work)
+https://1tv-live.itv.ge/1tv/smil:1tv.smil/playlist.m3u8
+#EXTINF:-1,Comedy Arkhi (Work)
+https://itv-live.itv.ge/comedy/smil:comedy.smil/playlist.m3u8
