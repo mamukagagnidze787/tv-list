@@ -1,3 +1,26 @@
+
 #EXTM3U
+
 #EXTINF:-1,Pirveli Arkhi
 https://1tv-live.itv.ge/1tv/smil:1tv.smil/playlist.m3u8
+
+#EXTINF:-1,Imedi
+https://imedi-live.itv.ge/imedi/smil:imedi.smil/playlist.m3u8
+
+#EXTINF:-1,Rustavi 2
+https://rustavi2-live.itv.ge/rustavi2/smil:rustavi2.smil/playlist.m3u8
+
+#EXTINF:-1,Maestro
+https://maestro-live.itv.ge/maestro/smil:maestro.smil/playlist.m3u8
+
+#EXTINF:-1,Comedy Arkhi
+http://185.70.53.50:81/hls/comedy.m3u8
+
+#EXTINF:-1,Marao
+http://185.70.53.50:81/hls/marao.m3u8
+
+#EXTINF:-1,Adjara Sport 1
+https://adjarasport1.cdn.ottrun.com/adjara/adjara_sport_1/playlist.m3u8
+
+#EXTINF:-1,Adjara Sport 2
+https://adjarasport2.cdn.ottrun.com/adjara/adjara_sport_2/playlist.m3u8
