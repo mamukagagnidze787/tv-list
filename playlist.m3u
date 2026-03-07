@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1, Red Bull TV (სპორტი)
+
+#EXTINF:-1 tvg-id="RedBull" group-title="სპორტი" tvg-logo="https://i.imgur.com/uXmR77p.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1, DW Russian (მეცნიერება / რუსულად)
-https://dwamdstream24.akamaized.net/hls/live/2015438/dwstream24/index.m3u8
-
-#EXTINF:-1, Euronews Russian (ახალი ამბები / რუსულად)
-https://itv.com.ge/hls/euronews_ru.m3u8
-
-#EXTINF:-1, NASA TV (კოსმოსი / ინგლისურად)
+#EXTINF:-1 tvg-id="NASA" group-title="შემეცნება" tvg-logo="https://i.imgur.com/8N8f9E1.png", NASA TV
 https://ntv1.akamaized.net/hls/live/2024549/NASA-HTTP/master.m3u8
 
-#EXTINF:-1, Motorvision (ავტომობილები)
-https://motorvision-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWRussian" group-title="შემეცნება" tvg-logo="https://i.imgur.com/fP7z6mH.png", DW Russian
+https://dwamdstream24.akamaized.net/hls/live/2015438/dwstream24/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews" group-title="ამბები" tvg-logo="https://i.imgur.com/mOAsC6X.png", Euronews Russian
+https://itv.com.ge/hls/euronews_ru.m3u8
