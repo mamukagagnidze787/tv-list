@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Rustavi 2
-https://tv.fnet.ge:4443/hls/rustavi2.m3u8
-
-#EXTINF:-1, Imedi TV
-https://tv.fnet.ge:4443/hls/imedi.m3u8
-
-#EXTINF:-1, Palitra TV
-https://tv.fnet.ge:4443/hls/palitratv.m3u8
-
 #EXTINF:-1, France 24
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1, Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
