@@ -1,3 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Test Channel
-http://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="ქართული", Rustavi 2
+https://tv.fnet.ge:4443/hls/rustavi2.m3u8
+#EXTINF:-1 group-title="ქართული", Palitra TV
+https://tv.fnet.ge:4443/hls/palitratv.m3u8
+#EXTINF:-1 group-title="ქართული", Imedi TV
+https://tv.fnet.ge:4443/hls/imedi.m3u8
+#EXTINF:-1 group-title="ქართული", Maestro
+https://tv.fnet.ge:4443/hls/maestro.m3u8
+
+#EXTINF:-1 group-title="საბავშვო", Disney Channel
+https://amg01211-vidillion-disneychannel-samsungbr-1280x720-337583.vsp.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="მუსიკა", MTV Europe
+https://vmf.edge.voka.tv/voka131/mono.m3u8
