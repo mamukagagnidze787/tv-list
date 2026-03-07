@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1, [RB მეგობარი] NASA TV
+#EXTINF:-1, Red Bull TV (Extreme Sports)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, NASA TV (Science/Space)
 https://ntv1.akamaized.net/hls/live/2024549/NASA-HTTP/master.m3u8
 
-#EXTINF:-1, [RB მეგობარი] Rakuten Action
+#EXTINF:-1, Rakuten Action (Movies/Sports)
 https://rakuten-action-1-de.voot.com/playlist.m3u8
 
-#EXTINF:-1, [RB მეგობარი] Fashion TV
+#EXTINF:-1, Fashion TV (Lifestyle)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_mid_6HLS.smil/playlist.m3u8
 
-#EXTINF:-1, Red Bull TV (Extreme)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1, SportsGrid (Sports News)
+https://linear-424.vizio.com/master.m3u8
