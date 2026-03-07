@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Georgian", Palitra TV
-http://111.119.160.103:1935/palitratv/palitratv/playlist.m3u8
+https://tv.palitranews.ge/hls/test.m3u8
 
 #EXTINF:-1 group-title="Georgian", Imedi TV
 https://imedi-hls.cdn.voka.tv/live/imedi/playlist.m3u8
@@ -9,14 +9,17 @@ https://imedi-hls.cdn.voka.tv/live/imedi/playlist.m3u8
 #EXTINF:-1 group-title="Georgian", Rustavi 2
 https://rustavi2-hls.cdn.voka.tv/live/rustavi2/playlist.m3u8
 
+#EXTINF:-1 group-title="News", France 24 EN
+https://static.france24.com/live/f24_en.video/playlist.m3u8
+
+#EXTINF:-1 group-title="News", DW English
+https://dwamdstream102.akamaized.net/hls/live/2013530/dwstream102/index.m3u8
+
 #EXTINF:-1 group-title="News", EuroNews
 https://euronews-euronews-world-1-us.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="News", France 24
-https://static.france24.com/live/f24_en.video/index.m3u8
-
 #EXTINF:-1 group-title="Science", NASA TV
-https://ntv1.akamaiized.net/hls/live/2015414/NASA-TV-1-HLS/master.m3u8
+https://ntv1.akamaiized.net/hls/live/2015414/NASA-TV-1/master.m3u8
 
 #EXTINF:-1 group-title="Test", TEST CHANNEL
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
