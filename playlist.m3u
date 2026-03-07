@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Rustavi 2 (Silk)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge-1.silktv.ge/hls/rustavi2/index.m3u8
+#EXTINF:-1, Rustavi 2 (Alt)
+https://itv.com.ge/hls/rustavi2.m3u8
 
-#EXTINF:-1, Imedi TV (Silk)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://edge-1.silktv.ge/hls/imedi/index.m3u8
+#EXTINF:-1, Imedi TV (Alt)
+https://itv.com.ge/hls/imedi.m3u8
+
+#EXTINF:-1, Maestro (Alt)
+https://itv.com.ge/hls/maestro.m3u8
+
+#EXTINF:-1, Red Bull TV (Working)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
