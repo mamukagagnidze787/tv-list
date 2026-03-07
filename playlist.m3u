@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1, Rustavi 2
-http://185.115.141.20:8081/rustavi2/index.m3u8
+#EXTINF:-1, Rustavi 2 (Silk)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge-1.silktv.ge/hls/rustavi2/index.m3u8
 
-#EXTINF:-1, Imedi TV
-http://185.115.141.20:8081/imedi/index.m3u8
-
-#EXTINF:-1, Marao
-http://185.115.141.20:8081/marao/index.m3u8
-
-#EXTINF:-1, Red Bull TV (Working)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1, Imedi TV (Silk)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge-1.silktv.ge/hls/imedi/index.m3u8
