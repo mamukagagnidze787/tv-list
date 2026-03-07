@@ -8,3 +8,12 @@ https://ntv1.akamaized.net/hls/live/2015414/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1,EuroNews
 https://euronews-euronews-world-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,France 24
+https://static.france24.com/live/f24_en.video/index.m3u8
+
+#EXTINF:-1,Imedi TV
+https://imedi-hls.cdn.voka.tv/live/imedi/playlist.m3u8
+
+#EXTINF:-1,Rustavi 2
+https://rustavi2-hls.cdn.voka.tv/live/rustavi2/playlist.m3u8
