@@ -2,14 +2,14 @@
 #EXTINF:-1, Red Bull TV (სპორტი)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1, NASA TV (მეცნიერება)
-https://ntv1.akamaized.net/hls/live/2024549/NASA-HTTP/master.m3u8
-
-#EXTINF:-1, DW Russian (დოკუმენტური)
+#EXTINF:-1, DW Russian (მეცნიერება / რუსულად)
 https://dwamdstream24.akamaized.net/hls/live/2015438/dwstream24/index.m3u8
 
-#EXTINF:-1, EBI Russian (შემეცნებითი)
-https://cdn-the-m3u8.vpro.cloud/v1/hls/ebi/index.m3u8
+#EXTINF:-1, Euronews Russian (ახალი ამბები / რუსულად)
+https://itv.com.ge/hls/euronews_ru.m3u8
 
-#EXTINF:-1, Motorvision (მანქანები)
+#EXTINF:-1, NASA TV (კოსმოსი / ინგლისურად)
+https://ntv1.akamaized.net/hls/live/2024549/NASA-HTTP/master.m3u8
+
+#EXTINF:-1, Motorvision (ავტომობილები)
 https://motorvision-vizio.amagi.tv/playlist.m3u8
