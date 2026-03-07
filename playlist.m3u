@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1,Palitra TV
+http://111.119.160.103:1935/palitratv/palitratv/playlist.m3u8
+
+#EXTINF:-1,NASA TV
+https://ntv1.akamaized.net/hls/live/2015414/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1,EuroNews
+https://euronews-euronews-world-1-us.samsung.wurl.tv/playlist.m3u8
