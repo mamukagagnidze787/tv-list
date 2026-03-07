@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:-1, Rustavi 2 (Alt)
-https://itv.com.ge/hls/rustavi2.m3u8
+#EXTINF:-1, NASA TV (Science)
+https://ntv1.akamaized.net/hls/live/2024549/NASA-HTTP/master.m3u8
 
-#EXTINF:-1, Imedi TV (Alt)
-https://itv.com.ge/hls/imedi.m3u8
-
-#EXTINF:-1, Maestro (Alt)
-https://itv.com.ge/hls/maestro.m3u8
-
-#EXTINF:-1, Red Bull TV (Working)
+#EXTINF:-1, Red Bull TV (Extreme Sports)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, World Poker Tour (Sports)
+https://cphn-worldpokertour-1-us.voot.com/playlist.m3u8
+
+#EXTINF:-1, Horizon Sports (Nature/Adventure)
+https://cdn-the-m3u8.vpro.cloud/v1/hls/horizon/index.m3u8
+
+#EXTINF:-1, Current Time TV (Russian News)
+https://live.currenttime.tv/hls/ct_hq/index.m3u8
+
+#EXTINF:-1, DW Russian (Science/Documentary)
+https://dwamdstream24.akamaized.net/hls/live/2015438/dwstream24/index.m3u8
