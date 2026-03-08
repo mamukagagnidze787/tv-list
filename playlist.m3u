@@ -1,15 +1,15 @@
 #EXTM3U
 
 # --- ბუნება და ცხოველები ---
-#EXTINF:-1 tvg-logo="https://example.com/animal.png" group-title="Nature",Animal World
-http://სერვერის-მისამართი/animal_world/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/amazon.png" group-title="Nature",The Amazon Valley
-http://სერვერის-მისამართი/amazon/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/tropics.png" group-title="Nature",Tropical Wonders
-http://სერვერის-მისამართი/tropics/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itv-logos/tv-logos/main/logos-uk/wilder-planet.png" group-title="Nature",Wilder Planet
+https://wilderplanet-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itv-logos/tv-logos/main/logos-us/nature-vision-tv.png" group-title="Nature",NatureVision TV
+https://naturevision.strem.io/playlist.m3u8
 
 # --- სპორტი ---
-#EXTINF:-1 tvg-logo="https://example.com/adjara.png" group-title="Sports",Adjarasport
-http://სერვერის-მისამართი/adjarasport/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/crystal.png" group-title="Sports",Crystalbetsport
-http://სერვერის-მისამართი/crystalbet/index.m3u8
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590945/boresource/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Sports Grid
+https://sportsgrid-daily.amagi.tv/playlist.m3u8
