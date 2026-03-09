@@ -1,15 +1,7 @@
 #EXTM3U
-
-# --- ბუნება და ცხოველები ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itv-logos/tv-logos/main/logos-uk/wilder-planet.png" group-title="Nature",Wilder Planet
-https://wilderplanet-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itv-logos/tv-logos/main/logos-us/nature-vision-tv.png" group-title="Nature",NatureVision TV
-https://naturevision.strem.io/playlist.m3u8
-
-# --- სპორტი ---
-#EXTINF:-1 group-title="Sports",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590945/boresource/master.m3u8
-
-#EXTINF:-1 group-title="Sports",Sports Grid
-https://sportsgrid-daily.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Setanta.png" group-title="სპორტი",Setanta Sports
+http://შენი-სტრიმ-ლინკი-აქ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Adjara.png" group-title="სპორტი",Adjarasport
+http://შენი-სტრიმ-ლინკი-აქ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nature.png" group-title="ბუნება",Animal World
+http://შენი-სტრიმ-ლინკი-აქ
