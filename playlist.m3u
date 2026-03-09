@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Setanta.png" group-title="სპორტი",Setanta Sports
-http://შენი-სტრიმ-ლინკი-აქ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Adjara.png" group-title="სპორტი",Adjarasport
-http://შენი-სტრიმ-ლინკი-აქ
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nature.png" group-title="ბუნება",Animal World
-http://შენი-სტრიმ-ლინკი-აქ
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
