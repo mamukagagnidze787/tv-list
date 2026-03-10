@@ -1,3 +1,27 @@
 #EXTM3U
-#EXTINF:-1,---== AUTO UPDATE LIST ==---
-https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1 group-title="კინოები",Kino Premiere
+http://185.156.43.14:80/stream/55.m3u8
+#EXTINF:-1 group-title="კინოები",Kino Hit
+http://185.156.43.14:80/stream/56.m3u8
+#EXTINF:-1 group-title="კინოები",Kino Action
+http://185.156.43.14:80/stream/57.m3u8
+
+#EXTINF:-1 group-title="შემეცნებითი",Discovery Channel
+http://185.156.43.14:80/stream/162.m3u8
+#EXTINF:-1 group-title="შემეცნებითი",National Geographic
+http://185.156.43.14:80/stream/163.m3u8
+#EXTINF:-1 group-title="შემეცნებითი",Viasat History
+http://185.156.43.14:80/stream/165.m3u8
+
+#EXTINF:-1 group-title="სპორტი",Match Football 1
+http://185.156.43.14:80/stream/101.m3u8
+#EXTINF:-1 group-title="სპორტი",Match Football 2
+http://185.156.43.14:80/stream/102.m3u8
+#EXTINF:-1 group-title="სპორტი",Setanta Sports
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="საბავშვო",Cartoon Network
+http://185.156.43.14:80/stream/191.m3u8
+#EXTINF:-1 group-title="საბავშვო",Disney Channel
+http://185.156.43.14:80/stream/193.m3u8
