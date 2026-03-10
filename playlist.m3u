@@ -1,21 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="რუსული არხები",სია 1
-#EXTVLCOPT:network-caching=1000
-https://iptv-org.github.io/iptv/countries/ru.m3u
+#EXTINF:-1 group-title="კინოები",Kino Premiere
+http://185.156.43.14:80/stream/55.m3u8
+#EXTINF:-1 group-title="კინოები",Kino Hit
+http://185.156.43.14:80/stream/56.m3u8
+#EXTINF:-1 group-title="კინოები",Kino Semya
+http://185.156.43.14:80/stream/58.m3u8
 
-#EXTINF:-1 group-title="ფილმები და სერიალები",კინოები
-#EXTVLCOPT:network-caching=1000
-http://smarttvnews.ru/apps/films.m3u
+#EXTINF:-1 group-title="შემეცნებითი",Discovery Channel
+http://185.156.43.14:80/stream/162.m3u8
+#EXTINF:-1 group-title="შემეცნებითი",National Geographic
+http://185.156.43.14:80/stream/163.m3u8
+#EXTINF:-1 group-title="შემეცნებითი",Animal Planet
+http://185.156.43.14:80/stream/161.m3u8
 
-#EXTINF:-1 group-title="საკაბელო და საბავშვო",სია 2
-#EXTVLCOPT:network-caching=1000
-https://smarttvnews.ru/apps/iptvchannels.m3u
+#EXTINF:-1 group-title="სპორტი",Setanta Sports 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="სპორტი",Match Football 1
+http://185.156.43.14:80/stream/101.m3u8
 
-#EXTINF:-1 group-title="HD არხები",სია 3
-#EXTVLCOPT:network-caching=1000
-https://itv.one/itv.m3u
-
-#EXTINF:-1 group-title="სამეცნიერო/Discovery",შემეცნებითი
-#EXTVLCOPT:network-caching=1000
-https://iptv-org.github.io/iptv/categories/science.m3u
+#EXTINF:-1 group-title="საბავშვო",Cartoon Network
+http://185.156.43.14:80/stream/191.m3u8
+#EXTINF:-1 group-title="საბავშვო",Nickelodeon
+http://185.156.43.14:80/stream/194.m3u8
