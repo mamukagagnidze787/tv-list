@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/MTV_80s_Logo.png" group-title="მუსიკა",MTV 80s
-https://ovsu67.akamaized.net/hls/live/2034509/mtv80s/index.m3u8
+#EXTINF:-1 group-title="News",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="შემეცნებითი",NASA TV
-https://ntv-all-all.akamaized.net/hls/live/2019054/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-name="Duck TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Ducktv_logo.png" group-title="საბავშვო",Duck TV
+#EXTINF:-1 group-title="Science",NASA TV
+https://ntv1.ntv.co/live/ntv1/master.m3u8
+
+#EXTINF:-1 group-title="Kids",Duck TV
 https://stream.itv.ge/hls/ducktv/index.m3u8
-
-#EXTINF:-1 tvg-name="FilmUA Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/FilmUA_logo.png" group-title="კინოები",FilmUA Drama
-https://film-ua-v1.itv.re/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Pluto Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pluto_TV_logo_2020.svg" group-title="კინოები",Pluto Movies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca66c3b4f4b7c0009e2e7f6/master.m3u8
