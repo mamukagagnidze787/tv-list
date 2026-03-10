@@ -1,16 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="რუსული არხები (საუკეთესო)", ---== სია 1 ==---
+#EXTINF:-1 group-title="რუსული არხები",სია 1
+#EXTVLCOPT:network-caching=1000
 https://iptv-org.github.io/iptv/countries/ru.m3u
 
-#EXTINF:-1 group-title="ფილმები და სერიალები", ---== კინოები ==---
+#EXTINF:-1 group-title="ფილმები და სერიალები",კინოები
+#EXTVLCOPT:network-caching=1000
 http://smarttvnews.ru/apps/films.m3u
 
-#EXTINF:-1 group-title="საკაბელო და საბავშვო", ---== სია 2 ==---
+#EXTINF:-1 group-title="საკაბელო და საბავშვო",სია 2
+#EXTVLCOPT:network-caching=1000
 https://smarttvnews.ru/apps/iptvchannels.m3u
 
-#EXTINF:-1 group-title="HD არხები", ---== სია 3 ==---
+#EXTINF:-1 group-title="HD არხები",სია 3
+#EXTVLCOPT:network-caching=1000
 https://itv.one/itv.m3u
 
-#EXTINF:-1 group-title="სამეცნიერო/Discovery", ---== შემეცნებითი ==---
+#EXTINF:-1 group-title="სამეცნიერო/Discovery",შემეცნებითი
+#EXTVLCOPT:network-caching=1000
 https://iptv-org.github.io/iptv/categories/science.m3u
