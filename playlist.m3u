@@ -1,22 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="სპორტი",Setanta Sports (Test)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="მუსიკა",MTV Live
+https://ovsu67.akamaized.net/hls/live/2034509/mtv80s/index.m3u8
 
 #EXTINF:-1 group-title="სპორტი",Sky Sports Main Event
 https://skysports-p-skysp-at.akamaized.net/hls/live/2037340/skysp-at/master.m3u8
 
-#EXTINF:-1 group-title="კინოები",Кинопремьера HD
-http://45.153.229.215:8080/premier/index.m3u8
-
-#EXTINF:-1 group-title="კინოები",Кинохит HD
-http://45.153.229.215:8080/hit/index.m3u8
-
-#EXTINF:-1 group-title="შემეცნებითი",Discovery Channel
-http://45.153.229.215:8080/discovery/index.m3u8
-
-#EXTINF:-1 group-title="შემეცნებითი",Animal Planet
-http://45.153.229.215:8080/animal/index.m3u8
+#EXTINF:-1 group-title="შემეცნებითი",NASA TV (World)
+https://ntv-all-all.akamaized.net/hls/live/2019054/NASA-NTV1-Public/master.m3u8
 
 #EXTINF:-1 group-title="ქართული",Rustavi 2
 http://185.156.43.14:80/stream/1.m3u8
@@ -24,8 +15,11 @@ http://185.156.43.14:80/stream/1.m3u8
 #EXTINF:-1 group-title="ქართული",Imedi TV
 http://185.156.43.14:80/stream/2.m3u8
 
-#EXTINF:-1 group-title="მუსიკა",MTV Live HD
-https://ovsu67.akamaized.net/hls/live/2034509/mtv80s/index.m3u8
+#EXTINF:-1 group-title="ქართული",Maestro
+http://185.156.43.14:80/stream/3.m3u8
 
-#EXTINF:-1 group-title="დიდი ბაზა (500+ არხი)",SmartTV Channels
-https://smarttvnews.ru/apps/iptvchannels.m3u
+#EXTINF:-1 group-title="კინოები",FILM UA (Movies)
+https://film-ua-v1.itv.re/hls/live/playlist.m3u8
+
+#EXTINF:-1 group-title="საბავშვო",Duck TV
+https://stream.itv.ge/hls/ducktv/index.m3u8
