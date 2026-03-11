@@ -1,16 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="GEORGIA", Rustavi 2
-https://tv.itv.ge/hls/rustavi2.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Imedi TV
-https://tv.itv.ge/hls/imedi.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", POS TV
-https://tv.itv.ge/hls/postv.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Formula
-https://tv.itv.ge/hls/formula.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Mtavari Arkhi
-https://tv.itv.ge/hls/mtavari.m3u8
+#EXTINF:-1, Rustavi 2
+https://edge1.itv.ge/hls/rustavi2/index.m3u8
