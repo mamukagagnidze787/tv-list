@@ -1,31 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="GEORGIA", Rustavi 2
-https://bcovlive-a.akamaihd.net/19b5333e648d4ee6a925db9ad9a397d0/eu-central-1/5361230412001/playlist.m3u8
-
 #EXTINF:-1 group-title="GEORGIA", Imedi TV
-https://imedi-live.cdn.office.itv.ge/live/imedi/playlist.m3u8
+https://tv.itv.ge/hls/imedi.m3u8
+
+#EXTINF:-1 group-title="GEORGIA", Rustavi 2
+https://tv.itv.ge/hls/rustavi2.m3u8
 
 #EXTINF:-1 group-title="GEORGIA", Maestro
-https://maestro-live.cdn.office.itv.ge/live/maestro/playlist.m3u8
+https://tv.itv.ge/hls/maestro.m3u8
 
-#EXTINF:-1 group-title="GEORGIA", First Channel (1TV)
-https://1tv-live.cdn.office.itv.ge/live/1tv/playlist.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", GDS TV
-https://gds-live.cdn.office.itv.ge/live/gds/playlist.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Pirveli TV
-https://tv1-live.cdn.office.itv.ge/live/tv1/playlist.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Palitra News
-https://palitra-live.cdn.office.itv.ge/live/palitra/playlist.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", PosTV
-https://postv-live.cdn.office.itv.ge/live/postv/playlist.m3u8
-
-#EXTINF:-1 group-title="GEORGIA", Formula
-https://formula-live.cdn.office.itv.ge/live/formula/playlist.m3u8
+#EXTINF:-1 group-title="GEORGIA", 1TV First Channel
+https://tv.itv.ge/hls/1tv.m3u8
 
 #EXTINF:-1 group-title="SPORTS", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
