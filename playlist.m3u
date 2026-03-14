@@ -1,9 +1,13 @@
-# My IPTV Playlist Repository
+#EXTM3U
 
-### M3U Links:
-- World: https://iptv-org.github.io/iptv/index.m3u
-- Sports: https://iptv-org.github.io/iptv/categories/sports.m3u
-- Movies: https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="GEORGIA", Rustavi 2
+https://raw.githubusercontent.com/skripun/iptv/master/geo.m3u
 
-### Lampa Plugins:
-- Online: https://lampa.mx/plugins/online.js
+#EXTINF:-1 group-title="SPORTS", RedBull TV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="MOVIES", Movies List
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="WORLD", All World Channels
+https://iptv-org.github.io/iptv/index.m3u
