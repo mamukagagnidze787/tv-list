@@ -1,3 +1,9 @@
-#EXTM3U
-#EXTINF:-1, Rustavi 2
-https://edge1.itv.ge/hls/rustavi2/index.m3u8
+# My IPTV Playlist Repository
+
+### M3U Links:
+- World: https://iptv-org.github.io/iptv/index.m3u
+- Sports: https://iptv-org.github.io/iptv/categories/sports.m3u
+- Movies: https://iptv-org.github.io/iptv/categories/movies.m3u
+
+### Lampa Plugins:
+- Online: https://lampa.mx/plugins/online.js
