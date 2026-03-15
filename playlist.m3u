@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, Imedi TV
-https://imedi-live.cdn.office.itv.ge/live/imedi/playlist.m3u8
 #EXTINF:-1, Rustavi 2
-https://bcovlive-a.akamaihd.net/19b5333e648d4ee6a925db9ad9a397d0/eu-central-1/5361230412001/playlist.m3u8
+https://stream.rustavi2.ge/r2/index.m3u8
+#EXTINF:-1, Imedi TV
+https://tv.itv.ge/hls/imedi.m3u8
 #EXTINF:-1, RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
