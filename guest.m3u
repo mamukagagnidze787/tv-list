@@ -1,1 +1,6 @@
+#EXTM3U
+#EXTINF:-1, Trialeti TV
+http://streaming.trialeti.ge/hls/trialeti.m3u8
 
+#EXTINF:-1, TV Odishi
+https://stream.itdc.ge/odishi/odishi/playlist.m3u8
