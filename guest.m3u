@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, SETANTA SPORTS 1
-https://line.allplay.ge/setanta1/index.m3u8
+#EXTINF:-1 group-title="სპორტი",SETANTA SPORTS 1
+(ჩასვი შენი მუშა ლინკი აქ)
 
-#EXTINF:-1, SETANTA SPORTS 2
-https://line.allplay.ge/setanta2/index.m3u8
+#EXTINF:-1 group-title="ქართული არხები",TV პირველი
+(ჩასვი შენი მუშა ლინკი აქ)
 
-#EXTINF:-1, IMEDI TV
-https://imedi-live.cdn.bonus-tv.ge/hls/imedi/index.m3u8
+#EXTINF:-1 group-title="სამეცნიერო",Science & Nature
+(ჩასვი შენი მუშა ლინკი აქ)
 
-#EXTINF:-1, RUSTAVI 2
-https://rustavi2-live.cdn.bonus-tv.ge/hls/rustavi2/index.m3u8
-
-#EXTINF:-1, NASA TV (Global)
-https://ntv-global-abr.akamaized.net/out/v1/d0834241e3d348a09f87c955a82e9988/index.m3u8
+#EXTINF:-1 group-title="კინო",კინობაზა HD
+(ჩასვი შენი მუშა ლინკი აქ)
