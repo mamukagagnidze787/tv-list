@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,🛠Ревизия №-1 🚦20.04.2026|05-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-
 #EXTINF:-1 group-title="Бенедикт Камбербэтч" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b7/12_Years_a_Slave_poster.jpg" $ExtFilter="StarGold",12 лет рабства (2013)
 https://o2.anwap.be/ohls/H-xpz_n6Lgx3jthOA16L6A/1745569591/12_let_rabstva-9651_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бенедикт Камбербэтч" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/ef/1917_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29.jpeg" $ExtFilter="StarGold",1917 (2019)
@@ -88,8 +87,6 @@ https://o1.anwap.be/ohls/8xlNM53j8RfISPqAi4zc_w/1751345921/CHernaya_messa-14353_
 https://o2.anwap.be/ohls/hyt0mSQoVgl5GNDo3x8EFA/1751334917/SHpion_vyjdi_von-4155_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бенедикт Камбербэтч" tvg-logo="https://ru-images.kinorium.com/movie/90/10647341.jpg?1696392303" $ExtFilter="StarGold",Яд (2023)
 https://s10.hdvbua.pro/media1/hls/films/poison_2023_webdl_1080p_91559/hls/index.m3u8
-
-
 #EXTINF:-1 group-title="Вигго Мортенсен" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/2/25/Thirteen_Lives_%28film%2C_2022%29.jpg/250px-Thirteen_Lives_%28film%2C_2022%29.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",13 жизней (2022)
 https://o6.anwap.be/ohls/ZZkYo4fel-R0aX21Vx6teg/1691813665/13_zhiznej-34929_(anwap.org).m3u8
 #EXTINF:-1 group-title="Вигго Мортенсен" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/f/f7/28_Days_Poster.jpg/198px-28_Days_Poster.jpg" $ExtFilter="StarGold",28 дней (2000)
@@ -164,8 +161,6 @@ https://o6.anwap.be/ohls/h2HK8YBgVTL0Kw5jv3SUxA/1751323739/13_zhiznej-34929_(anw
 https://o1.anwap.be/ohls/E6OE_VaLg4wtYiA35zM5uw/1751323915/U_vseh_estq_plan-7460_(anwap.org).m3u8
 #EXTINF:-1 group-title="Вигго Мортенсен" tvg-logo="https://ru-images.kinorium.com/movie/90/2508327.jpg?1714556481" $ExtFilter="StarGold",Эврика (2023)
 https://o9.anwap.be/ohls/fmEirEHmK2lYq_xUXqYx1g/1751323612/Eureka-42464_(anwap.org).m3u8
-
-
 #EXTINF:-1 group-title="Вэл Килмер" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYyOWI3MjktMjgyNy00YTZiLWFjMDctM2U2NDI3NjQzMDRmXkEyXkFqcGc@._V1_.jpg" $ExtFilter="StarGold",1-й рожденный (2019)
 https://o3.anwap.be/ohls/QGKdVhPNNGE41VLsMtI5vw/1751086246/1st_Born-24155_(anwap.org).m3u8
 #EXTINF:-1 group-title="Вэл Килмер" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/45/Alexander_poster.JPG" $ExtFilter="StarGold",Александр (2004)
@@ -287,9 +282,7 @@ https://ashdi.vip/video23/1/new/tombstone_1993_bdrip_1080p_h.265_ukr_eng_hurtom_
 #EXTINF:-1 group-title="Вэл Килмер" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwUhlzDaHErff5Iz_Vbsa7Gy45CQMLi8BzZQ&s" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Тяжелые деньги (2002)
 https://ashdi.vip/video26/1/new/film_tyazhelye_dengi_2002_153224/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Вэл Килмер" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/c/ce/Double_Identity_%282009%29_film_poster.jpg" $ExtFilter="StarGold",Фальшива личина (2009)
-https://ashdi.vip/video26/2/films/double_identity_2009_ukr_ac35.1448_bdrip_hurtom_142164/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
-
-
+https://ashdi.vip/video26/2/films/double_identity_2009_ukr_ac35.1448_bdrip_hurtom_142164/hls/AamXiHaGjuRfnxH+Doo=/index.m
 #EXTINF:-1 group-title="Винг Рэймс" tvg-logo="https://images.kinorium.com/movie/300/399161.jpg?1507569447" $ExtFilter="StarGold",Ангел зла (2009)
 https://o3.anwap.be/ohls/0FHhDCf3aP7BBfwRcRafVA/1751341387/Angel_zla-36524_(anwap.org).m3u8
 #EXTINF:-1 group-title="Винг Рэймс" tvg-logo="https://images.kinorium.com/movie/300/577474.jpg?1634184756" $ExtFilter="StarGold",Апокалипсис зомби (2011)
@@ -394,8 +387,6 @@ https://o1.anwap.be/ohls/ZgOYd7GRiQzcuaTsLPKcPA/1751340836/Turnir_na_vyzhivanie-
 https://ashdi.vip/video26/3/new/i_now_pronounce_you_chuck_and_larry_2007_2xukreng_bdripavc_hurtom_17030/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Винг Рэймс" tvg-logo="https://ru-images.kinorium.com/movie/300/505341.jpg?1734366814" $ExtFilter="StarGold",Юлия Икс (2011)
 https://o1.anwap.be/ohls/xB6-RjvMNeyfNr8LIEKMRg/1751341687/YUliya_Iks-6898_(anwap.org).m3u8
-
-
 #EXTINF:-1 group-title="Военное кино" tvg-logo="https://ru-images.kinorium.com/movie/1080/742504.jpg?1723233643" tvg-id="simpleTVFakeEpgId" $ExtFilter="Kinozal",12-й человек (2017)
 https://o3.anwap.be/ohls/NabXue57bdj2DlQdbPr1Mw/1745205075/12-j_chelovek-19473_(anwap.org).m3u8
 #EXTINF:-1 group-title="Военное кино" tvg-logo="https://lavakino.cc/uploads/mini/200h300/5a/b70a55752daba45bf85ce6cbf412e5.jpg" $ExtFilter="Kinozal",1944 (2015)
@@ -784,8 +775,6 @@ https://o8.anwap.be/ohls/d18YIq7cEiJEV5J4ncefzg/1751081811/The_Shamrock_Spitfire
 https://o3.anwap.be/ohls/EANuTygJsDy1_mqQWsQCrg/1748618757/YEskadrilqya_303._Podlinnaya_istoriya-22312_(anwap.org).m3u8
 #EXTINF:-1 group-title="Военное кино" tvg-logo="https://x-film.ws/uploads/posts/2022-09/19041031091-1906130128-eti-chertovy-gody-2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Kinozal",Эти чертовы годы 2 (2021)
 https://o6.anwap.be/ohls/GKTKEGdrwvLhAghh9HEoJA/1748618689/De_forbandede_r_2-35415_(anwap.org).m3u8
-
-
 #EXTINF:0 tvg-logo="https://uakino.me/uploads/mini/poster/bf/08896de21f4d965a2120ece788c870.webp" group-title="Ніколас Кейдж",Мама і тато (2017)
 https://ashdi.vip/video31/1/new/mom_and_dad_2017_bdremux_1080p_180720/hls/1080/BKeMlHWLlvtemgfhB48l/index.m3u8
 #EXTINF:0 tvg-logo="https://uakino.me/uploads/mini/poster/e6/6358faa98fdfe6bb1b172743ac98d4.webp" group-title="Ніколас Кейдж",Крейсер «Індіанаполіс» (2016)
@@ -944,8 +933,6 @@ https://ashdi.vip/video1/1/new3/lord_of_war_2005_ukr_eng_sub._eng_bdremux_1080p_
 https://ashdi.vip/video1/1/new3/the_rock_1996_bdrip_1080p_ukr_eng_hurtom_13859/hls/1080/DauXi3CRleBCmQ==/index.m3u8
 #EXTINF:0 tvg-logo="https://uakino.me/uploads/mini/poster/0d/a1dd940aed3bf18ba475aaf601ac5d.webp" group-title="Ніколас Кейдж",Мерзла земля (2013)
 https://ashdi.vip/video1/1/new/the_frozen_ground_2013_bdrip_1080p_ukr_eng_hurtom_21326/hls/1080/DauXi3CRleBCmQ==/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ПАТРІК СВЕЙЗІ",Брудні танці (1987)
 https://ashdi.vip/video29/1/new3/dirty_dancing_remastered_1987_3xukreng_sub.eng_bdrip_1080p_hurtom_14234/hls/1080/DauXi3CRleBCmA4=/index.m3u8
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ПАТРІК СВЕЙЗІ",Придорожній клуб (1989)
@@ -988,8 +975,6 @@ https://ashdi.vip/video29/1/new2/king_solomons_mines_2004_bdrip_part_i_ukr_hurto
 https://ashdi.vip/video29/1/new2/king_solomons_mines_2004_bdrip_part_i_ukr_hurtom_by_patriot2305_33904/hls/480/DauXi3CRleBCmAs=/index.m3u8
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ПАТРІК СВЕЙЗІ",Донні Дарко (2001)
 https://ashdi.vip/video29/2/films/donnie_darko_2001_bdrip_1080p_4k_remastered_unrated_extended_cuthurtom_1438/hls/1080/DauXi3CRleBCmAs=/index.m3u8
- 
-
 #EXTINF:-1 group-title="Алек Болдуин" tvg-logo="https://kinozal.tv/i/poster/7/9/1980579.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",97 минут (2023)
 https://o7.anwap.be/ohls/_TrbUmOD92edULHHmNOJvA/1745361430/97_minut-38543_(anwap.org).m3u8
 #EXTINF:-1 group-title="Алек Болдуин" tvg-logo="https://kinozal.tv/i/poster/4/3/786343.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",А вот и Полли (2004)
@@ -1094,7 +1079,6 @@ https://ashdi.vip/video21/1/new/two.bits.1995.ua.dvo.11_173096/hls/AamXiHaGjuRfn
 https://ashdi.vip/video21/1/films/blackkklansman_2018_ukreng_bdripavc_hurtom_57375/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Алек Болдуин" tvg-logo="https://uakino.me/uploads/mini/poster/72/0dfa495e4cf89158f4e7a29d770a13.webp" $ExtFilter="StarGold",Як все заплутано (2009)
 https://ashdi.vip/video21/1/new3/its_complicated_2009_ukreng_bdrip_1080p_hurtom_14003/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
 #EXTINF:-1 group-title="Адриано Челентано" tvg-logo="https://uakino.me/uploads/mini/poster/c5/4ff9d1d995e27a9a0b3ea0dbd6c1c5.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Блеф (1976)
 https://ashdi.vip/video21/1/new/bluff_storia_di_truffe_e_di_imbroglioni_1976_remastered_bdrip_1080p_h.265_2xukr_ita_hurtom_19960/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Адриано Челентано" tvg-logo="https://uakino.me/uploads/mini/poster/73/4e288c9eeee2003a7efbb8d69a2128.webp" $ExtFilter="StarGold",Буркотун (1986)
@@ -1125,7 +1109,6 @@ https://ashdi.vip/video21/2/films/laltra_meta_del_cielo_1977_ukr_satrip_hurtom_1
 https://ashdi.vip/video21/1/new3/innamorato_pazzo_1981_bdrip_1080p_remastered_ukrita__sub_ita_hurtom_14538/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Адриано Челентано" tvg-logo="https://uakino.me/uploads/mini/poster/47/f8c0243f18d921b00a47787f1b6a85.webp" $ExtFilter="StarGold",Історія кохання і кинджала (1971)
 https://ashdi.vip/video21/1/films/er_piu_storia_damore_e_di_coltello_1971_webdl_1080p_ukrita_sub_itaeng_hurtom_79610/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
 #EXTINF:-1 group-title="Анджелина Джоли" tvg-logo="https://kinozal.tv/i/poster/4/2/1788042.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Айван - единственный и неповторимый (2020)
 https://o4.anwap.be/ohls/LqXdeqyRe2k60a41D3XWRw/1745456137/Ajvan_edinstvennyj_i_nepovtorimyj-26990_(anwap.org).m3u8
 #EXTINF:-1 group-title="Анджелина Джоли" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/45/Alexander_poster.JPG" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Александр (2004)
@@ -1192,7 +1175,6 @@ https://ashdi.vip/video19/1/new/hackers_1995_bdrip_rm_1080p_h.265_3xukr_eng_2018
 https://ashdi.vip/video19/1/films/chaklunka_575/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
 #EXTINF:-1 group-title="Анджелина Джоли" tvg-logo="https://uakino.me/uploads/mini/mainpics/d7/ef15b1de9acf25c69ec8378fa48748.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Чаклунка: Повелителька темряви (2019)
 https://ashdi.vip/video19/1/new4/maleficent_mistress_of_evil_2019_bdrip_1080p_ukr_eng_video_hurtom_4064/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
-
 #EXTINF:-1 group-title="Дензел Вашингтон" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEjytsg1SprBth8FGsBDT_lURIUw6aEr6rAk6uG45Vg&s" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Esq (2017)
 https://ashdi.vip/video17/1/new3/roman.j.israel.esq_2017_bdrip_1080p_hurtom_39096/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Дензел Вашингтон" tvg-logo="https://uakino.me/uploads/mini/poster/fd/50bee551df9005917404bb4f111098.webp" $ExtFilter="StarGold",Багряний приплив (1995)
@@ -1229,8 +1211,6 @@ https://ashdi.vip/video17/1/serials/the.tragedy.of.macbeth.2021.webrip.1080p.ukr
 https://ashdi.vip/video17/1/new3/roman.j.israel.esq_2017_bdrip_1080p_hurtom_39096/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Дензел Вашингтон" tvg-logo="https://uakino.me/uploads/mini/poster/64/d3c865842231d689d856167898ba19.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Филадельфия (1993)
 https://ashdi.vip/video17/1/films/philadelphia_1993_bdrip_1080p_72505/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Арнольд Шварценеггер" tvg-logo="https://uakino.me/uploads/mini/poster/f5/e8847dfbbdc9c05b60edf4ffa471e7.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Відшкодування збитків (2002)
 https://ashdi.vip/video22/1/new3/collateral_damage_2002_2xukreng_sub.eng_bdrip_1080p_hurtom_40301/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Арнольд Шварценеггер" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROAK-_9L4gvxkr_dnx6f6WyhsI-ldFAj2wQ&s" $ExtFilter="StarGold",Геркулес в Нью-Йорке (1969)
@@ -1259,7 +1239,6 @@ https://o1.anwap.be/ohls/kott8Xx162QZUVcB-EH7Yw/1745472197/Neuderzhimyee_2-5837_
 https://ashdi.vip/video22/1/films/killing_gunther_2017_ukreng_bdripavc_hurtom_43264/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Арнольд Шварценеггер" tvg-logo="https://uft.lol/wp-content/uploads/2017/08/3m_jVIDr5Ks.jpg" $ExtFilter="StarGold",Фыганатор 2: скудный день (2017)
 https://o2.anwap.be/ohls/GXqT7_ITzxLLunf0FH3IOQ/1745471985/Terminator_2_Sudnyj_denq-16729_(anwap.org).m3u8
-
 #EXTINF:-1 group-title="Пирс Броснан" tvg-logo="https://uakino.me/uploads/mini/poster/b8/3ad9b769d5e43fffbe893591d41221.webp" $ExtFilter="StarGold",Ай Ті (2026)
 https://ashdi.vip/video17/1/films/i.t._2016_bdremux_1080p_ukr_eng_hurtom_110699/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Пирс Броснан" tvg-logo="https://uakino.me/uploads/mini/poster/46/925e299817ffe8ace21d86b1f9fa13.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Афера Томаса Крауна (1999)
@@ -1294,7 +1273,6 @@ https://ashdi.vip/video17/1/films/after_the_sunset_2004_bdrip_1080p_h.265_2xukr_
 https://ashdi.vip/video17/1/new/robinson_crusoe_1997_webdl_1080p_58019/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Пирс Броснан" tvg-logo="https://uakino.me/uploads/mini/poster/62/c0d80594c963a150f4b8fbc2fce921.webp" $ExtFilter="StarGold",Родичі поза законом (2023)
 https://ashdi.vip/video17/1/serials/the_outlaws_2023_webdl_1080p_ukr_eng_hurtom_96744/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
 #EXTINF:-1 group-title="Бен Аффлек" tvg-logo="https://kinozal.tv/i/poster/2/6/1976526.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Air: Большой прыжок (2023)
 https://o7.anwap.be/ohls/Bvqwf_5Ce1L9cs3jiZAjEw/1682180780/Air_Bolqshoj_pryzhok-38161_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бен Аффлек" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b9/Armageddon-poster.jpg" $ExtFilter="StarGold",Армагеддон (1998)
@@ -1333,12 +1311,8 @@ https://ashdi.vip/video22/1/films/forces.of.nature.1999.webdl.1080p.2xukr.eng.su
 https://ashdi.vip/video22/1/films/chasing_amy_1997_bdrip_1080p_85259/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Бен Аффлек" tvg-logo="https://kinozal.tv/i/poster/1/4/1981014.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Флэш (2023)
 https://ashdi.vip/video22/1/films/the.flash.2023.webdl.1080p.2xukr.eng.hurtom_97417/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Адам Сендлер" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/db/Hubie_Halloween_%28film%29.jpg/640px-Hubie_Halloween_%28film%29.jpg" $ExtFilter="StarGold",Хэллоуин Хьюби (2020)
 https://ashdi.vip/video31/1/films/hubie.halloween.2020_ukr_59335/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Вин Дизель" tvg-logo="http://kinozal.tv/i/poster/9/5/1761695.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Бладшот (2020)
 https://o4.anwap.be/ohls/jqU63U-NYgJhvrDadDMGpg/1745715115/Bladshot-25151_(anwap.org).m3u8
 #EXTINF:-1 group-title="Вин Дизель" tvg-logo="https://kinodrive.club/uploads/posts/2012-09/1348350247_p.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Бойлерная (2000)
@@ -1399,8 +1373,6 @@ https://ashdi.vip/video28/1/films/gobs__shou_358/hls/AamXiHaGjuRfnxH4Bg==/index.
 https://ashdi.vip/video25/1/films/the.chronicles.of.riddick.dircut.hurtom.2004.bdremux_3063/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Вин Дизель" tvg-logo="https://s2.vcdn.biz/static/f/3914762231/image.jpg/pt/r300x423x4" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Чёрная дыра (1999)
 https://ashdi.vip/video25/1/films/pitch.black.dircut.hurtom.2000.bdremux_3061/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Венсан Кассель" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9b/Ast%C3%A9rix_et_Ob%C3%A9lix-_L%27Empire_du_Milieu.jpg/250px-Ast%C3%A9rix_et_Ob%C3%A9lix-_L%27Empire_du_Milieu.jpg" $ExtFilter="StarGold",Астерикс и Обеликс: Поднебесная (2023)
 https://o7.anwap.be/ohls/qkiHXWpf98CZvxGOgsqySw/1745723348/Asteriks_i_Obeliks_Podnebesnaya-37191_(anwap.org).m3u8
 #EXTINF:-1 group-title="Венсан Кассель" tvg-logo="https://uaserial.top/images/serials/64/64356c8e40c8d481752763.webp" $ExtFilter="StarGold",Афера по-французьки (2018)
@@ -1503,7 +1475,6 @@ https://o1.anwap.be/ohls/2SM3j1IOHqMeZ8E5fdr8vA/1745723581/YEto_vsego_lishq_kone
 https://o1.anwap.be/ohls/Wbihl76d1pqQ-Ikwomk1Ew/1745723645/YEtot_nelovkij_moment-14060_(anwap.org).m3u8
 #EXTINF:-1 group-title="Венсан Кассель" tvg-logo="https://uaserial.top/images/serials/65/651043af503e3480045843.webp" $ExtFilter="StarGold",Іменинниця (2001)
 https://ashdi.vip/video25/1/films/birthday_girl_2001_webdl_1080p_95576/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
 #EXTINF:-1 group-title="Брюс Уиллис" tvg-logo="https://uaserial.top/images/serials/64/64de1751059ac143430106.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",10 минут спустя (Обратный отсчёт) 2019
 https://ashdi.vip/video17/1/films/10_minutes_gone_2019_1080p_ukr_eng_hurtom_47662/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Брюс Уиллис" tvg-logo="https://uaserial.top/images/serials/65/658aa9b216369125282276.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",12 обезьян (1995)
@@ -1716,8 +1687,6 @@ https://ashdi.vip/video17/1/new/the_jackal.1997.x264.bdrip.1080p_ukr_eng_sub_ukr
 https://ashdi.vip/video17/1/new4/the_sixth_sense_1999_ukr_eng._sub__ukr_eng_bdrip_1080p_hurtom_4200/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Брюс Уиллис" tvg-logo="https://uaserial.top/images/serials/66/665ee1c1113ad595372539.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Я все ще тут (2010)
 https://ashdi.vip/video18/1/films/im_still_here_2010_bdrip_720p_ukr_eng_hurtom_129284/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Брэдли Купер" tvg-logo="https://kinozal.tv/i/poster/9/9/1892299.jpg" $ExtFilter="StarGold",Аллея кошмаров (2021)
 https://o6.anwap.be/ohls/s5FFWWcAVBPD5DKNLUAbgQ/1745648926/Alleya_koshmarov-32684_(anwap.org).m3u8
 #EXTINF:-1 group-title="Брэдли Купер" tvg-logo="https://kinozal.tv/i/poster/2/2/1358722.jpg" $ExtFilter="StarGold",Алоха (2015)
@@ -1798,8 +1767,6 @@ https://o1.anwap.be/ohls/VtmA0njHYz2FZqJ_pBrSzw/1745649417/Hvataj_i_begi-7249_(a
 https://ashdi.vip/video28/2/new4/war_dogs_2016_bdrip_1080p_ukr_eng_hurtom_8136/hls/AamXiHaGjuRfnxH9Aw==/index.m3u8
 #EXTINF:-1 group-title="Брэдли Купер" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/42/Burnt_%28film%29.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Шеф Адам Джонс (2015)
 https://o1.anwap.be/ohls/IAUkm14rlQr8dnmhs3EgBw/1745649719/SHef_Adam_Dzhons-14432_(anwap.org).m3u8
-
-
 #EXTINF:-1 group-title="Брендан Фрейзер" tvg-logo="https://uaserial.top/images/serials/65/655b501036b09738808460.webp" $ExtFilter="StarGold",Армійські пригоди (1994)
 https://ashdi.vip/video24/1/films/in_the_army_now_1994_webdl_1080p_ukreng__sub_eng_hurtom_67984/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Брендан Фрейзер" tvg-logo="http://kinozal.tv/i/poster/7/6/1852176.jpg" $ExtFilter="StarGold",Без резких движений (2021)
@@ -1870,7 +1837,6 @@ https://ashdi.vip/video24/1/films/the_quiet_american_2002_webdl_1080p_open_matte
 https://o1.anwap.be/ohls/XW6NetmpiYlRb0kJ7wT_Uw/1745644336/Hroniki_lombarda-8772_(anwap.org).m3u8
 #EXTINF:-1 group-title="Брендан Фрейзер" tvg-logo="https://static.hdrezka.ac/i/2014/12/19/r02209363ce0dlg99w22t.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Чернильное сердце (2008)
 https://o7.anwap.be/ohls/QATim_tUqrrvN2oSemKjUw/1745644101/CHernilqnoe_serdce-4066_(anwap.org).m3u8
-
 #EXTINF:-1 group-title="Бред Питт" tvg-logo="https://kinozal.tv/i/poster/4/0/1165540.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",12 лет рабства (2013)
 https://o2.anwap.be/ohls/H-xpz_n6Lgx3jthOA16L6A/1745569591/12_let_rabstva-9651_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бред Питт" tvg-logo="https://kinozal.tv/i/poster/3/6/509836.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",12 обезьян (1995)
@@ -1981,8 +1947,6 @@ https://ashdi.vip/video19/1/new/spy_game_15999/hls/AamXiHaGjuRfnxH9Bw==/index.m3
 https://o2.anwap.be/ohls/mKZC2_otmR5O-kF94kznqg/1745568666/YArostq-11981_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бред Питт" tvg-logo="https://uakino.me/uploads/mini/poster/47/09cef9b91e8c24ad85251ae13cb0a8.webp" $ExtFilter="StarGold",Історії про сильних людей (1992)
 https://ashdi.vip/video24/2/films/twofisted_tales_1992_ukr.22_ac3_2.0_satrip_hurtom_by_urij546724_142330/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Бёрт Рейнолдс" tvg-logo="https://uaserial.top/images/serials/67/67a0d75eabef6475002775.webp" $ExtFilter="StarGold",100 гвинтівок (1969)
 https://ashdi.vip/video25/1/new/100.rifles.1969.webrip1080_ukr_ensubshurtom_163255/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Бёрт Рейнолдс" tvg-logo="https://uaserial.top/images/serials/64/64d5ed2221e52076514852.webp" $ExtFilter="StarGold",Алігатор (1976)
@@ -2081,8 +2045,6 @@ https://ashdi.vip/video25/1/films/mystery_alaska_1999_open_matte_webdl_1080p_130
 https://ashdi.vip/video25/1/films/without_a_paddle_2004_bdrip_1080p_99686/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="Бёрт Рейнолдс" tvg-logo="https://uaserial.top/images/serials/65/655ca3ada60b6107974485.webp" $ExtFilter="StarGold",Чоловік, який любив жінок (1983)
 https://ashdi.vip/video25/1/films/the_man_who_loved_women_1983_webrip_1080p_65531/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-
-
 #EXTINF:-1 group-title="Винни Джонс" tvg-logo="https://static.hdrezka.ac/i/2015/9/17/nbaa7fcc955fddo26d92d.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",6 способов умереть (2015)
 https://o2.anwap.be/ohls/zD66JoUYBQzqV0UFTGxk0Q/1748595707/6_sposobov_umeretq-13995_(anwap.org).m3u8
 #EXTINF:-1 group-title="Винни Джонс" tvg-logo="https://i115.fastpic.org/big/2021/0627/7b/7b487f730de87941d61f29b40e86957b.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Большая кража (2004)
@@ -2199,9 +2161,6 @@ https://o1.anwap.be/ohls/harm-iJGPkyY7ZaIOS17Og/1748596584/Extraction-10782_(anw
 https://o8.anwap.be/ohls/n1QdlnozO-MAt34g3I20dA/1748596387/YEra_drakonov-2406_(anwap.org).m3u8
 #EXTINF:-1 group-title="Винни Джонс" tvg-logo="https://static.hdrezka.ac/i/2020/7/9/e3f341fd7bdf5wo55l42s.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Я - возмездие 2: Расплата (2020)
 https://o4.anwap.be/ohls/xFsl6hrqfpDXdd8p1TMhoQ/1748597526/I_Am_Vengeance_Retaliation-26239_(anwap.org).m3u8
-
-
-
 #EXTINF:0 tvg-logo="http://epg.one/img2/1037.png" group-title="МАРС",Червона планета (2000)
 https://ashdi.vip/video2/1/new/red_planet_2000_bdrip_1080p_h.265_ukr_eng_hurtom_17859/hls/1080/DauXi3CRleBCkw==/index.m3u8
 #EXTINF:0 tvg-logo="http://epg.one/img2/1037.png" group-title="МАРС",Красная планета (фильм, 2000г)
@@ -2258,7 +2217,6 @@ https://youtu.be/W9zqewqsWFE?si=D-86wuV-5K9g_Q0l
 https://ashdi.vip/video3/1/films/marsanin_297/hls/1080/BKeMlHWLlvtemgfhA4o=/index.m3u8
 #EXTINF:0 tvg-logo="http://epg.one/img2/1037.png" group-title="МАРС",Марсианин (2015)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/aItZ6wknixXamwT6PhQ/ZX
-
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ЛІ ВАН КЛІФ",Стрілець від Бога (1976)
 https://ashdi.vip/video1/1/new/gods.gun.1976.ua.dvo.classic.movies.cartoons.hd_174248/hls/1080/DauXi3CRleBCmAw=/index.m3u8
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ЛІ ВАН КЛІФ",Повернення Сабати (1971)
@@ -2285,8 +2243,6 @@ https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/iyfN6I3zU3wfcg_3pFU/ZX
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/FP7MRNS8pbADKVpBZkZ/ZX
 #EXTINF:0 tvg-logo="https://img2.freepng.ru/20180610/gww/aa8s0zzg9.webp" group-title="ЛІ ВАН КЛІФ",Сдавайся и расплатись (1966)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/iyfN6I3tMzF36oCuZGR/ZX
-
-
 #EXTINF:0 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боло Йенг",Кіготь тигра (1991) 
 https://ashdi.vip/video10/1/films/tiger_claws_1992_ukreng_bdripavc_hurtom_57866/hls/720/DauXi3CRleBCkg==/index.m3u8
 #EXTINF:0 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боло Йенг",Кіготь тигра 2 (1996)
@@ -2303,8 +2259,6 @@ https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/FP7MRNSQJxA9aNJQCzA/ZX
 https://ashdi.vip/video10/1/films/podvjnij_udar_2284/hls/1080/DauXi3CRleBCmwk=/index.m3u8
 #EXTINF:0 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боло Йенг",Вихід дракона (1973)
 https://ashdi.vip/video10/1/new/enter_the_dragon_1973_bdremux_1080p_remastered_2xukreng__sub_eng_hurtom_19624/hls/1080/BKeMlHWLlvtemgfhB48h/index.m3u8
-
-
 #EXTINF:-1 group-title="Гэри Бьюзи" tvg-logo="https://ru-images.kinorium.com/movie/90/1460184.jpg?1633619829" $ExtFilter="StarGold",Акулий торнадо 4: Пробуждение (2016)
 https://ashdi.vip/video27/3/new3/sharknado.4.the.4th.awakens.2016.bdrip_14068/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Гэри Бьюзи" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/03/The_Last_Sharknado_It%27s_About_Time.jpg/640px-The_Last_Sharknado_It%27s_About_Time.jpg" $ExtFilter="StarGold",Акулий торнадо 6: Время настало (2018)
@@ -2373,8 +2327,6 @@ https://o4.anwap.be/ohls/uMGKcNrgm3mifeIHwtG1Fw/1751166763/Bunker_of_Blood_Chapt
 https://ashdi.vip/video27/2/serials/the_chain_1996_dvdrip_147445/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Гэри Бьюзи" tvg-logo="https://ru-images.kinorium.com/movie/90/106091.jpg?1534242903" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Шоссе в никуда (1997)
 https://ashdi.vip/video27/3/new/lost_highway_1997_ukreng_bdrip_1080p_hurtom_17298/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
-
-
 #EXTINF:-1 group-title="Гэри Дэниелс" tvg-logo="https://images.kinorium.com/movie/90/107156.jpg?1450195400" $ExtFilter="StarGold",Белый Тигр (1996)
 https://o2.anwap.be/ohls/0E_Dc90THy3tjIBuc_oNag/1751327527/Belyj_Tigr-5540_(anwap.org).m3u8
 #EXTINF:-1 group-title="Гэри Дэниелс" tvg-logo="https://images.kinorium.com/movie/90/578594.jpg?1634322230" $ExtFilter="StarGold",Боец поневоле (2011)
@@ -2431,7 +2383,6 @@ https://o1.anwap.be/ohls/GvNwIh_YI747ft51-Zx5SQ/1751327511/Torgovlya_kozhej-1325
 https://o1.anwap.be/ohls/etfMSeq0hJuGk01iJoqinw/1751327614/CHuzhak_v_rayu-10099_(anwap.org).m3u8
 #EXTINF:-1 group-title="Гэри Дэниелс" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgcDB-gX6q13YtAUs3yyMWLrhYcJ8CE6IEA&s" $ExtFilter="StarGold",Я возмездие (2018)
 https://o3.anwap.be/ohls/G_v_9lpGiKG220rs6HAz4w/1751327478/Vengeance-20276_(anwap.org).m3u8
-
 #EXTINF:-1 group-title="Гэбриэл Юнион" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/9/95/10_Things_I_Hate_About_You_film.jpg/250px-10_Things_I_Hate_About_You_film.jpg" $ExtFilter="StarGold",10 причин моей ненависти (1999)
 https://o10.anwap.be/ohls/FCaOXDLUZkviVgArUKcdrw/1750765846/10_prichin_moej_nenavisti-2683_(anwap.org).m3u8
 #EXTINF:-1 group-title="Гэбриэл Юнион" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/2/27/%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D1%87%D1%8C_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_2017%29.jpg" $ExtFilter="StarGold",Бессоная ночь (2017)
@@ -2484,7 +2435,6 @@ https://o1.anwap.be/ohls/Iehz4F6xdi5aNSqxcmWXYQ/1751097293/Horoshie_postupki-566
 https://o9.anwap.be/ohls/U1vOa1DMsWCoUC2L21dmhA/1751097105/CHoknutyee-44939_(anwap.org).m3u8
 #EXTINF:-1 group-title="Гэбриэл Юнион" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/a2/She%27s_all_that_cover.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",Это всё она (1998)
 https://o5.anwap.be/ohls/Vl1ukyov0dwqcnlNqVZ6uA/1750766836/YEto_vse_ona-1965_(anwap.org).m3u8
-
 #EXTINF:-1 group-title="Голди Хоун" tvg-logo="https://static.hdrezka.ac/i/2020/12/22/lc650ee8c2f10se83s18m.png" $ExtFilter="StarGold",SPF-18 (2017)
 https://o1.anwap.be/ohls/pllvPa_5Jr8-h2bHagbZqQ/1751089620/SPF-18-18254_(anwap.org).m3u8
 #EXTINF:-1 group-title="Голди Хоун" tvg-logo="https://en-images.kinorium.com/movie/1080/94916.jpg?1726956814" $ExtFilter="StarGold",Вкривь и вкось (1991)
@@ -2525,7 +2475,6 @@ https://o7.anwap.be/ohls/zjF3OnCDJvjA0xG1yyaUBQ/1751089576/Cvetok_kaktusa-38621_
 https://ashdi.vip/video26/1/films/the_sugarland_express_1974_bdremux_1080p_2xukreng__sub_ukreng_hurtom_53988/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Голди Хоун" tvg-logo="https://en-images.kinorium.com/movie/1080/75174.jpg?1620329593" $ExtFilter="StarGold",Як за старих добрих часів (1980)
 https://ashdi.vip/video26/1/new/film_kak_v_staroe_dobroe_vremya_153121/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
-
 #EXTINF:-1 group-title="Дастин Хофман" tvg-logo="https://i115.fastpic.org/big/2021/0728/ee/5386312711a77e913f5ce655e97531ee.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="StarGold",«Ахап Ереч» Роальда Даля (2015)
 https://o3.anwap.be/ohls/Aver1pE8xJzBd2krNcUtfQ/1751344334/laquoAhap_Erechraquo_Roalqda_Dalya-21635_(anwap.org).m3u8
 #EXTINF:-1 group-title="Дастин Хофман" tvg-logo="https://images.kinorium.com/movie/90/72725.jpg?1634228756" $ExtFilter="StarGold",Агата (1978)
@@ -2610,8 +2559,6 @@ https://o2.anwap.be/ohls/XJIObewoGbMiK91EmBIrTQ/1751344524/CHelovek_dozhdya-1470
 https://ashdi.vip/video29/3/films/shef_kuxar_3021/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Дастин Хофман" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/08/Outbreak_movie.JPG" $ExtFilter="StarGold",Эпидемия (1995)
 https://o8.anwap.be/ohls/IjpoUDAT289BRhRE9y1Pvw/1704071104/YEpidemiya-39616_(anwap.org).m3u8
-
-
 #EXTINF:-1 group-title="Гэри Олдман" tvg-logo="https://ru-images.kinorium.com/movie/90/88912.jpg?1588886112" $ExtFilter="StarGold",Адвокат для убийцы (1988)
 https://o8.anwap.be/ohls/rEH0beY5tdhQaUz_y0K60w/1751334560/Advokat_dlya_ubijcy-40588_(anwap.org).m3u8
 #EXTINF:-1 group-title="Гэри Олдман" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b1/Immortal_beloved.jpg" $ExtFilter="StarGold",Бессмертная возлюбленная (1994)
@@ -2730,8 +2677,6 @@ https://o3.anwap.be/ohls/i6ES80g4xiUN0Ju4xxE2nw/1751334796/Hanter_Killer-20800_(
 https://ashdi.vip/video29/1/films/chattahoochee_1989_bdripavc_57858/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 group-title="Гэри Олдман" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/3/38/Tinker%2C_Tailor%2C_Soldier%2C_Spy_Poster.jpg" $ExtFilter="StarGold",Шпион, выйди вон! (2011)
 https://o2.anwap.be/ohls/hyt0mSQoVgl5GNDo3x8EFA/1751334917/SHpion_vyjdi_von-4155_(anwap.org).m3u8
-
-
 #EXTINF:-1 group-title="KINO ZAL",Машина війни 2026|Велика Британія|Австралія|Нова Зеландія|США|екшн|фантастика|трилер
 https://zetvideo.net/content/stream/films/war.machine.2026.ua.dub_49132/hls/1080/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Удачі веселися не вмирай|2025|Німеччина-США|Комедія|Фантастика|Бойовик|Пригоди
@@ -3704,8 +3649,6 @@ https://kinoleha.net/load/serdce-stoun?original
 https://kinoleha.net/load/zasekrecheno?original
 #EXTINF:-1 group-title="KINO ZAL",Мистецтво на війні (Док.фільм)
 https://e12p.starlight.digital/get-playlist/hls-vod/files/29/62/2426229/mq.mp4/index.m3u8
-
-
 #EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я4|2024|професійний дубльований
 https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Том і Джеррі-Історія Лускунчика|2007|47 хв|США|мультфільм
@@ -3716,8 +3659,6 @@ https://jk39ocmjeoyql3tj.ashdi.vip/content/stream/new/tom_and_jerry_snowmans_lan
 https://zetvideo.net/content/stream/films/the.lion.king.3.2004.bdremux.1080p.ukr.eng_17258/hls/1080/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Муфаса-Король Лев|2024|120хв|США
 https://zetvideo.net/content/stream/films/mufasa.the.lion.king.2024.1080p.webdlrip.x264.aac.uaflix_10493/hls/1080/index.m3u8
-
-
 #EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-14/67/9a/679aade91b4c6279ad89b08bd22669bd.jpg", Супер Марио: Галактическое кино (2026)
 https://river-3-343.rtbcdn.ru/hls-vod/OdnPbPpjkuHVn6-IVD7qAA/1776806891/3340/0x5000c500e986ecb4/736a17655f874d44b72b57c859bcd35e.mp4.m3u8?i=1920x800_4052
 #EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-14/34/e5/34e5f9f69bc5822b1cd863333424fd88.jpg", Охота за амброй (2025)
@@ -3986,8 +3927,6 @@ https://river-4-415.rtbcdn.ru/hls-vod/kg-rkwuqnnpxYIkYz7TgWw/1777131761/2618/0x5
 https://river-4-405.rtbcdn.ru/hls-vod/CLH7oNWdYQTk0KPllptcQw/1777131761/2510/0x5000039ce862abed/5f8d02fe28dd45e0943a4e2fc461c0f1.mp4.m3u8?i=848x352_463
 #EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-02-27/56/e6/56e6af25bc01e361dccef9759e9f8d6c.jpg", Провод мертвеца (2025)
 https://river-4-407.rtbcdn.ru/hls-vod/0Pv0Y72dSQL0HizXkGD9dA/1777131761/2520/0x5000039ce838288d/adedd5f00677469fb40b6ec92dc103ce.mp4.m3u8?i=1800x1080_3189
-
-
 #EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-16/34/9a/349aa74a52eb59dcbd7de716080d5610.jpg", Шары вверх (2026)
 https://river-3-352.rtbcdn.ru/hls-vod/bXz6bqFkeknvYMmarjpZHQ/1777131842/2207/0x5000c5007446b403/74eeae6d824248b4a6bdc766b21e0d54.mp4.m3u8?i=3840x1600_7841
 #EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-04-13/9e/09/9e0905d3cf848fadd0dc0b07af2ef2af.jpg", F1 (2025)
@@ -4522,8 +4461,6 @@ https://river-4-410.rtbcdn.ru/hls-vod/mEC18Ubt-efVscgM_eK6Xg/1777131854/2602/0x5
 https://river-3-352.rtbcdn.ru/hls-vod/Ac0YHLK15fEP0vPrZ6nl_w/1777131854/2648/0x5000039ce861e005/72103dc6044f4ac8b1a2719d5f960e24.mp4.m3u8?i=3840x2080_12410
 #EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-06-12/92/3d/923d02ec744710d2fdbd5683f8d7a3c3.jpg", Трудная мишень (1993)
 https://river-3-388.rtbcdn.ru/hls-vod/UvA2xoM4hE7a1H3oTMheKg/1777131854/2686/0x5000039ce83bf4b1/b40ac16b786a4eb48f20513577281a1e.mp4.m3u8?i=3840x2160_15400
-
-
 #EXTINF:-1 group-title="Как это сделано (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/e7/65/e7658b66083800331672eeaa99a955b1.jpg", Спецвыпуск Турбо 1 сезон 1 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://river-4-443.rtbcdn.ru/hls-vod/o-O8x_qemxEV9tcJrhRDBg/1777129964/2074/0x5000c500f1e40973/5f2481c91a9e4d1eb374337404aa7412.mp4.m3u8?i=1912x1080_3459
@@ -5205,8 +5142,6 @@ https://river-4-417.rtbcdn.ru/hls-vod/61ch94Ez4v8OaGKeTb0WXw/1777129975/2084/0x5
 #EXTINF:-1 group-title="Как это сделано (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/a3/1f/a31faa40071ffdf18f25ffc731eaa149.jpg", 14 сезон 20 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 https://river-4-413.rtbcdn.ru/hls-vod/JIU_ZiCjs9n5cK5BXIY1bA/1777129976/2078/0x5000c500f1e07275/41261d53724c4ae7ba8df99cf223e04e.mp4.m3u8?i=1912x1080_4657
-
-
 #EXTINF:-1 group-title="Как это работает (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/6c/fb/6cfb08e36f6b3d91ea4f74a04d60dee3.png", 1 сезон 1 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 https://river-5-538.rtbcdn.ru/hls-vod/o5yVK3_-JG_DciKUEd767Q/1777215297/2084/0x5000c500f1d6eb4f/1ef209dd7bb743a197824fa4457b09a1.mp4.m3u8?i=1920x1080_3434
@@ -5594,8 +5529,6 @@ https://river-4-419.rtbcdn.ru/hls-vod/HNaTqwXqJKY0FjTwTaTX5w/1777215303/2076/0x5
 #EXTINF:-1 group-title="Как это работает (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/b0/3d/b03dc262e7432136eca800e4a5d5e80c.jpg", 10 сезон 13 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://river-4-414.rtbcdn.ru/hls-vod/rhXFmp8t2e3NBVUidjTOAg/1777215303/2082/0x5000c500f1dc41a6/2ff89ea0ff0b4e20a57b3b26af9df164.mp4.m3u8?i=1280x720_3728
-
-
 #EXTINF:-1 group-title="Разрушители легенд (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-23/97/55/975575dfeab1832703aacf4f76b2f407.png", 1 сезон 1 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 https://river-4-426.rtbcdn.ru/hls-vod/YZDFoY5tM1wc3TkPdNh3Gg/1777223274/3342/0x5000c500e9cc3b61/e706626dd9604cb196e54296283195be.mp4.m3u8?i=1920x1080_7194
@@ -6445,8 +6378,6 @@ https://river-5-523.rtbcdn.ru/hls-vod/aPz8pj_o7kxeqJws3gVf0A/1777223288/3338/0x5
 #EXTINF:-1 group-title="Разрушители легенд (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-10-11/0a/8d/0a8dd3ccad5c711a8fc2ee297161de36.png", 16 сезон 8 серия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
 https://river-4-434.rtbcdn.ru/hls-vod/5UEExBvBfCgSCZZBIMRvmg/1777223288/3268/0x5000c500e42dae51/8c38cc2d3eec47dbbfad7e687200e2ee.mp4.m3u8?i=1920x1080_5426
-
-
 #EXTINF:-1 group-title="Боевики" tvg-logo="https://m.anwap.tube/films/screen/1078.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Kinozal",12 раундов (2009)
 https://o7.anwap.be/ohls/YiPTEgnMsWm348rUY5o88g/1688130888/12_raundov-1078_(anwap.org).m3u8
 #EXTINF:-1 group-title="Боевики" tvg-logo="https://m.anwap.tube/films/screen/14186.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Kinozal",12 раундов 3 (2015)
