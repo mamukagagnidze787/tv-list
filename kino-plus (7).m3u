@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,🛠Ревизия №-1 🚦24.04.2026|17-30|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)",TV1000
 http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)",TV1000 Action
@@ -122,8 +121,6 @@ http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)",Т24
 http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
-
-
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 UA
 http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна
@@ -152,8 +149,6 @@ https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-
-
 #EXTINF:-1 group-title="KINO+📺",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",КИНОХИТ
@@ -484,8 +479,6 @@ http://176.118.197.101/Retro/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 group-title="KINO+📺",Ностальгия 
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-
-
 #EXTINF:-1 group-title="Каналы с VPN",TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=YXqDtJ5PrDSe3tmc8MeOEA&e=1776885041&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Каналы с VPN",TV1000 Action HD
@@ -588,8 +581,6 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Film UA Drama
 http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
-
-
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
@@ -754,8 +745,6 @@ http://kinowalk.hopto.org/serialtv_live
 http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 group-title="Кинозалы (VPN)", Мультфильмы 24/7
 http://kinowalk.hopto.org/mezontrop_live
-
-
 #EXTINF:-1 group-title="NNT",Amedia 2
 http://45.145.32.13:20440/kineko/index.m3u8?token=test
 #EXTINF:-1 group-title="NNT",Amedia Hit
@@ -782,8 +771,6 @@ http://45.145.32.13:20440/piatnica/index.m3u8?token=test
 http://45.145.32.13:20440/ocean_tv/index.m3u8?token=test
 #EXTINF:-1 group-title="NNT",СТС
 http://45.145.32.13:20440/ctc/index.m3u8?token=test
-
-
 #EXTINF:-1 group-title="Cloudflare_Inc", BCU Kinorating
 http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc", BCU Stars HD
@@ -840,8 +827,6 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-
 #EXTINF:-1 group-title="Internet42 LLC", .Black
 http://176.118.197.125/Black/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", .SCI-FI
@@ -888,8 +873,6 @@ http://176.118.197.101/Che/index.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", Ретро
 http://176.118.197.101/Retro/index.m3u8
-
-
 #EXTINF:-1 group-title="Turon Media",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",TV1000 Кино
@@ -936,8 +919,6 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media",Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 group-title="Voka",Киносат
 http://46.53.208.4:80/live/59.m3u8
 #EXTINF:-1 group-title="Voka",Epic
@@ -1022,8 +1003,6 @@ http://46.53.208.4:80/live/6008.m3u8
 http://46.53.208.4:80/live/5127.m3u8
 #EXTINF:-1 group-title="Voka",ВОПРОСЫ ОТВЕТЫ
 http://46.53.208.4:80/live/1515.m3u8
-
-
 #EXTINF:-1 group-title="CloudFlare Inc (VPN)",Vip Megahit HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc (VPN)",Vip Comedy HD
@@ -1036,8 +1015,6 @@ https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc (VPN)",TV1000 Р Кино HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
-
-
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Hollywood HD
 https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Amedia 1
@@ -1100,8 +1077,6 @@ https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 #EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Ностальгия 
 https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
-
-
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Fantastika
 http://pl.online24.pm/play/50011/F6E1DD42544DD10/video.m3u8
 #EXTINF:-1 tvg-name="wednesday" group-title="КІНОЗАЛИ-JK",Wednesday
@@ -1358,8 +1333,6 @@ http://pl.online24.pm/play/1963/F6E1DD42544DD10/video.m3u8
 http://pl.online24.pm/play/7068/F6E1DD42544DD10/video.m3u8
 #EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Різдво
 http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
-
-
 #EXTINF:-1 group-title="KazTransCom",Amedia HIT HD
 http://77.245.98.18:8000/play/a00p
 #EXTINF:-1 group-title="KazTransCom",Fox
@@ -1392,8 +1365,6 @@ http://77.245.98.18:8000/play/a01n
 http://77.245.98.18:8000/play/a004
 #EXTINF:-1 group-title="KazTransCom",Индия
 http://77.245.98.18:8000/play/a002
-
-
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",Hollywood HD
 http://213.230.65.254:8200/play/a02j
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",TV1000 Action HD
@@ -1424,8 +1395,6 @@ http://213.230.65.254:8200/play/a01f
 http://213.230.65.254:8200/play/a01g
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",ТВ3
 http://213.230.65.254:8200/play/a01h
-
-
 #EXTINF:-1 group-title="IZONE", TV 1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 group-title="IZONE", TV 1000 Action
@@ -1502,8 +1471,6 @@ http://46.32.176.50/foxrussia/index.m3u8
 http://46.32.176.50/tv3/index.m3u8
 #EXTINF:-1 group-title="IZONE", Че
 http://46.32.176.50/ce/index.m3u8
-
-
 #EXTINF:-1 group-title="Hetzner Online GmbH",National Geographic HD
 http://178.63.98.119:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="Hetzner Online GmbH",Cartoons 90
@@ -1650,8 +1617,6 @@ http://178.63.98.119:8000/play/a01m/index.m3u8
 http://178.63.98.119:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Hetzner Online GmbH",NHL Network [US]
 http://178.63.98.119:8000/play/a01p/index.m3u8
-
-
 #EXTINF:-1 group-title="Кавкасус Онлайн",Amedia Hit
 http://85.117.37.41/amediahit/index.m3u8
 #EXTINF:-1 group-title="Кавкасус Онлайн",Еврокино
@@ -1662,8 +1627,6 @@ http://85.117.37.41/tv1000/index.m3u8
 http://85.117.37.41/tv1000ru/index.m3u8
 #EXTINF:-1 group-title="Кавкасус Онлайн",TV XXI
 http://85.117.37.41/tv21/index.m3u8
-
-
 #EXTINF:-1 group-title="Uplink",Кинохит
 https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Uplink",Индийское кино
@@ -1730,8 +1693,6 @@ https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Uplink",СТС Love
 https://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-
 #EXTINF:-1 group-title="Lime (VPN)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10373/logo_256_1658734849.png", Киносемья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/W9xse4bvRrPjer7HIRRDug,1777100254/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
