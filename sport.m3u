@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,🛠Ревизия №-1 🚦26.03.2026|07-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",X-Stream
@@ -394,8 +393,6 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 29
 https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
-
-
 #EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР
 http://ott.server-iptv.live/208/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР SD
