@@ -1,5 +1,481 @@
-#EXTM3U
-#EXTINF:-1 group-title="GEORGIA", Setanta Sport 1 GE 
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="GEORGIA", Setanta 2 HD GEO 
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,🛠Ревизия №-1 🚦26.03.2026|07-10|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+
+#EXTINF:-1 group-title="SPORT 🏆",Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт 2
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",setanta2 HD GEO
 http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT!!!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", planeta
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="SPORT 🏆",Мир баскетбола HD
+http://cdn.kubteltv.workers.dev/?ID=451
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ
+http://cdn.kubteltv.workers.dev/?ID=369
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 1
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 2
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20103/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 3
+http://ozaesnna.megatv.fun/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/20104/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL HD
+http://86.57.209.210/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",КХЛ ТВ
+http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Игра HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 1 HD
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport1HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport2
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport3
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport4
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport5
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ArtSport6
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport1HR
+http://79.127.207.193:80/MaxSport1HR/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport2HR
+http://79.127.207.193:80/MaxSport2HR/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport1HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport HD
+http://87.246.54.249:8080/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport2 HD
+http://87.246.54.249:8080/DiemaSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport3 HD
+http://87.246.54.249:8080/DiemaSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",NovaSport
+http://87.246.54.249:8080/NovaSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport1 HD
+http://87.246.54.249:8080/MaxSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport2 HD
+http://87.246.54.249:8080/MaxSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport3 HD
+http://87.246.54.249:8080/MaxSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport4 HD
+http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport
+http://87.246.54.249:8080/Eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2
+http://87.246.54.249:8080/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ACI SportTV HD
+http://87.246.54.249:8080/SportTV/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RING
+http://87.246.54.249:8080/RING/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5
+http://46.53.208.4:80/live/9.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport+ 🇰🇿
+http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Q Football 🇰🇿
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Q Sport Arena HD 🇰🇿
+http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Q Sport League HD 🇰🇿
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",viju+ Sport
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars HD
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Qazaqstan HD
+http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Qazsport HD
+http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Qazaqstan HD
+http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1 Israel
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 2 Israel
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 3 Israel
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 4 Israel
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 5 Israel
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein Sport HD 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein Sport 2 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein Sport 3 HD 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV HD Pt (Португалия)
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 2 HD Pt
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 3 HD Pt
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",BAND Sport HD Pt
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Combate HD Pt
+https://02.arlivre.online/combate/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn HD Pt
+https://02.arlivre.online/espn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 2 HD Pt
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 3 HD Pt
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 4 HD Pt
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 1 HD Pt
+https://02.arlivre.online/pre1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 2 HD Pt
+https://02.arlivre.online/pre2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 3 HD Pt
+https://02.arlivre.online/pre3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 4 HD Pt
+https://02.arlivre.online/pre4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 5 HD Pt
+https://02.arlivre.online/pre5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT 🏆",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",AYM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+#EXTINF:-1 group-title="SPORT 🏆",DAZN Combat German
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 4
+https://7pal.short.gy/tntspts4
+EXTINF:-1 group-title="SPORT 🏆",Eleven Sports 1 4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 01
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 02
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 03
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 04
+https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 05
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 06
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 07
+https://7pal.short.gy/fox507au
+#EXTINF:-1 group-title="SPORT 🏆",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆" tvg-id="82e3fcab219bfeaaff332e60e63801e5" ,CZ EUROSPORT22
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 group-title="SPORT 🏆" tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" ,CZ PREMIER SPORT1 T3
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 4 HD
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 5 HD
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 6 HD
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Fight Network HD
+http://169.150.223.25/FightNetwork/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 1 HD
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 2 HD
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai 3 HD
+http://169.150.223.25/Rai3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai Sport HD
+http://169.150.223.25/RaiSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport1
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport4
+http://135.125.109.73:9000/beinsport4_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport6
+http://135.125.109.73:9000/beinsport6_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport7
+http://135.125.109.73:9000/beinsport7_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport8
+http://135.125.109.73:9000/beinsport8_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport9
+http://135.125.109.73:9000/beinsport9_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein sport10
+http://135.125.109.73:9000/beinsport10_.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 4
+http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 5
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 6
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 7
+http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 8
+http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 9
+http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 10
+http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 11
+http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 12
+http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 13
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 14
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 15
+http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 16
+http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 17
+http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 18
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 19
+http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 20
+http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 21
+http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 22
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 23
+http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 24
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 25
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 26
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 27
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 28
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 29
+https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
+
+
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР
+http://ott.server-iptv.live/208/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР SD
+http://ott.server-iptv.live/0208/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч ТВ
+http://ott.server-iptv.live/207/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 1
+http://ott.server-iptv.live/202/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 2
+http://ott.server-iptv.live/203/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 3
+http://ott.server-iptv.live/204/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Футбол HD
+http://ott.server-iptv.live/232/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 1 HD
+http://ott.server-iptv.live/233/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 2 HD
+http://ott.server-iptv.live/234/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 3 HD
+http://ott.server-iptv.live/235/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Футбол
+http://ott.server-iptv.live/230/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",U.TV
+http://ott.server-iptv.live/212/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко.Прайм Спорт
+http://ott.server-iptv.live/236/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Спорт HD
+http://ott.server-iptv.live/238/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Спорт HD
+http://ott.server-iptv.live/237/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Игра
+http://ott.server-iptv.live/205/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Арена HD
+http://ott.server-iptv.live/206/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Арена
+http://ott.server-iptv.live/0206/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ! СТРАНА
+http://ott.server-iptv.live/209/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ! Боец
+http://ott.server-iptv.live/210/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Qazaqstan HD
+http://ott.server-iptv.live/228/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Eurasia HD
+http://ott.server-iptv.live/220/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Eurasia Plus
+http://ott.server-iptv.live/221/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Sports Ukraine HD
+http://ott.server-iptv.live/222/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Sports+ Ukraine HD
+http://ott.server-iptv.live/214/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Спорт онлайн
+http://ott.server-iptv.live/211/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",ViP Sport 3
+http://ott.server-iptv.live/241/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/0200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/0201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Viasat Sport
+http://ott.server-iptv.live/215/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Мир баскетбола
+http://ott.server-iptv.live/231/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",FightBox
+http://ott.server-iptv.live/224/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Удар HD
+http://ott.server-iptv.live/227/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Бокс ТВ
+http://ott.server-iptv.live/216/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",КХЛ HD
+http://ott.server-iptv.live/218/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",КХЛ ТВ
+http://ott.server-iptv.live/225/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Старт
+http://ott.server-iptv.live/226/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Суспільне Спорт
+http://ott.server-iptv.live/240/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Беларусь 5 BY
+http://ott.server-iptv.live/219/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+
