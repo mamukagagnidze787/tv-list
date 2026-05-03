@@ -228,13 +228,13 @@ http://16.hls.ga/ch1614/mono.m3u8?token=kvirike.v2_aC9aL7OElyyoBT0QrXAoa7ZMbrszL
 #EXTGRP:4. Georgia
 http://16.hls.ga/ch2239/mono.m3u8?token=kvirike.v2_aUDGS1KCGc06kyMIhIsGK-vOySIPy0KctubNz7iCxo65pGKiKENBFPUHUIAWqQKfZG_pqD3WdE7O
 #EXTINF:0 tvg-id="ch1199" tvg-name="GE: Setanta Sports 1 Georgia HD" tvg-logo="http://hls.ga/images/chIcons/1199.png" tvg-rec="6", GE: Setanta Sports 1 Georgia HD
-#EXTGRP:4. SETANTA GE
+#EXTGRP:4. ⚽ Setanta Sports  GE
 http://16.hls.ga/ch1199/mono.m3u8?token=kvirike.v2_qTcocvvwkHzt3CIhereUMH7WVZ55YxAzKd37PpDkIjBno2QFiRXqQECJcAT9VAX5Zo_r-Z21knDJ
 #EXTINF:0 tvg-id="ch1206" tvg-name="GE: Setanta Sports 2 Georgia HD" tvg-logo="http://hls.ga/images/chIcons/1206.png" tvg-rec="6", GE: Setanta Sports 2 Georgia HD
-#EXTGRP:4. SETANTA GE
+#EXTGRP:4. ⚽ Setanta Sports  GE
 http://16.hls.ga/ch1206/mono.m3u8?token=kvirike.v2_s2fDWSSypDj50cB8xoO4T4dcaT71A1_u6H3usVr9og2g-LkI0yJ2cvIyXeoAGObaNLUDfwEpt5_r
 #EXTINF:0 tvg-id="ch2060" tvg-name="GE: Setanta Sports 3 Georgia HD" tvg-logo="http://hls.ga/images/chIcons/2060.png" tvg-rec="6", GE: Setanta Sports 3 Georgia HD
-#EXTGRP:4. SETANTA GE
+#EXTGRP:4. ⚽ Setanta Sports  GE
 http://16.hls.ga/ch2060/mono.m3u8?token=kvirike.v2_7To9mKeKGgk-w79cPycNDskojXAIHL1gsxwcqMbfIe9FWAJI-IPFnwU4By-bTCpqS9pdoabJ0F_e
 #EXTINF:0 tvg-id="ch1592" tvg-name="GE: Silk Universal HD" tvg-logo="http://hls.ga/images/chIcons/1592.png" tvg-rec="6", GE: Silk Universal HD
 #EXTGRP:4. SILK
