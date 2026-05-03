@@ -372,7 +372,7 @@ http://16.hls.ga/ch1209/mono.m3u8?token=kvirike.v2_JGiLfZ5Q95TOkWKDWyNn4Iq8jzqqb
 #EXTGRP:4. 📺 CINE+
 http://16.hls.ga/ch3102/mono.m3u8?token=kvirike.v2_xzsFWIIWvaUF29CrB6wD-Iootjr8d5sy2Z5eB5SeFPGfZdpwaB0m8rO5rGtEzB4lMYlSLES2AVE9
 #EXTINF:0 tvg-id="ch3103" tvg-name="GE: CINE+ Frisson HD" tvg-logo="http://hls.ga/images/chIcons/3103.png" tvg-rec="3", GE: CINE+ Frisson HD
-#EXTGRP:4. CINE+
+#EXTGRP:4. 📺 CINE+
 http://16.hls.ga/ch3103/mono.m3u8?token=kvirike.v2_r8V1wtVgm9ocrLv7O1sbfULn2VerwaLtlopmo4D_5mND4j6BL2vpW3HxGNT3i-QpaArIPf46BWeU
 #EXTINF:0 tvg-id="ch3104" tvg-name="GE: CINE+ Emotion HD" tvg-logo="http://hls.ga/images/chIcons/3104.png" tvg-rec="3", GE: CINE+ Emotion HD
 #EXTGRP:4. 📺 CINE+
