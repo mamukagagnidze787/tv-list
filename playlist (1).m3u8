@@ -228,28 +228,28 @@ https://11.hls.ga/ch1614/mono.m3u8?token=mamuka-sport.v2_i7EsxLns8s3Yx9w8Z_BkOil
 #EXTGRP:4. Georgia
 https://11.hls.ga/ch2239/mono.m3u8?token=mamuka-sport.v2_SHDyCba8Y-f7mZIEQVFcC8FbL_fyVpTwPOxAzqxMmbUhpkYlQdpW07QfC25nLDvfPNH-fKBF1SwQ0y-MCg
 #EXTINF:0 tvg-id="ch1199" tvg-name="GE: Setanta Sports 1 Georgia HD" tvg-logo="https://hls.ga/images/chIcons/1199.png" tvg-rec="6", GE: Setanta Sports 1 Georgia HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. SETANTA GE
 https://11.hls.ga/ch1199/mono.m3u8?token=mamuka-sport.v2_9QWwSgP5-xJijAznlZl8GOR8FtRVNCHnoL10ZOFic0drYp0V4Sdg6jYb7wsVM1-HDe_3RUnXleVXaoraUw
 #EXTINF:0 tvg-id="ch1206" tvg-name="GE: Setanta Sports 2 Georgia HD" tvg-logo="https://hls.ga/images/chIcons/1206.png" tvg-rec="6", GE: Setanta Sports 2 Georgia HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. SETANTA GE
 https://11.hls.ga/ch1206/mono.m3u8?token=mamuka-sport.v2_t1kzbRQuKckHuTli4aZ1UlH-3TpCm1qFaaYKYo4UASqoh-jUxQdoOQGrB7tx2i9Iyaq1KoTf1hO6b3gbiA
 #EXTINF:0 tvg-id="ch2060" tvg-name="GE: Setanta Sports 3 Georgia HD" tvg-logo="https://hls.ga/images/chIcons/2060.png" tvg-rec="6", GE: Setanta Sports 3 Georgia HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. SETANTA
 https://11.hls.ga/ch2060/mono.m3u8?token=mamuka-sport.v2_y2TFsPErq_uSNkdmB8pRhU60BLR3VoCgb5nFJYenkkduvUEslgtCOvHQWKCfyGQCNH95DCr15W2hXoRGdQ
 #EXTINF:0 tvg-id="ch1592" tvg-name="GE: Silk Universal HD" tvg-logo="https://hls.ga/images/chIcons/1592.png" tvg-rec="6", GE: Silk Universal HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. SILKtv
 https://11.hls.ga/ch1592/mono.m3u8?token=mamuka-sport.v2_TZgXdBDKdZ1ErZ81A39heNDqs4izl8sh_R3ZPMLXaziV2wE0IhwC4IreR6ics3eaPru_OthoaoyjeR_lpQ
 #EXTINF:0 tvg-id="ch1620" tvg-name="GE: Silk Documentary" tvg-logo="https://hls.ga/images/chIcons/1620.png" tvg-rec="6", GE: Silk Documentary
-#EXTGRP:4. Georgia
+#EXTGRP:4. SILKtv
 https://11.hls.ga/ch1620/mono.m3u8?token=mamuka-sport.v2_RBpUbDp37pTLs42D_-0zAAZNRCfXJQ6REIk5lmVe95yoyeE7m1fdQnOXA5wpuacUHnLzMYw00EBwD7YoqQ
 #EXTINF:0 tvg-id="ch1607" tvg-name="GE: Silk Kino Collection" tvg-logo="https://hls.ga/images/chIcons/1607.png" tvg-rec="6", GE: Silk Kino Collection
-#EXTGRP:4. Georgia
+#EXTGRP:4. SILKtv
 https://11.hls.ga/ch1607/mono.m3u8?token=mamuka-sport.v2_gTB8rsPcW1t1qDliodzCIwD9W2lrCVmBRRvy2Z7xiusbL52RZD9-oHEeHj5crRCvCv917CuD6ijrjhR55Q
 #EXTINF:0 tvg-id="ch1606" tvg-name="GE: Silk Kids" tvg-logo="https://hls.ga/images/chIcons/1606.png" tvg-rec="6", GE: Silk Kids
-#EXTGRP:4. Georgia
+#EXTGRP:4. SILKtv
 https://11.hls.ga/ch1606/mono.m3u8?token=mamuka-sport.v2_WHyUkTVCC4aQLRx-7yELlFW5IB4de2QLGqum96qRVy5cBcXPGq4xPRHPlBBtjgNS2Xmrk_4xT4eOW5iJ5g
 #EXTINF:0 tvg-id="ch1608" tvg-name="GE: Silk Kino Holiwood" tvg-logo="https://hls.ga/images/chIcons/1608.png" tvg-rec="6", GE: Silk Kino Holiwood
-#EXTGRP:4. Georgia
+#EXTGRP:4. SILKtv
 https://11.hls.ga/ch1608/mono.m3u8?token=mamuka-sport.v2_4z9vhIjDRkOptfN8ODoCqHkjWc1wgumcQlPsDfl6UUdOdTjzhG53RUjfzPdQ4UWeeDeQ0kMITkwxY5nuzA
 #EXTINF:0 tvg-id="ch1613" tvg-name="GE: Samefo Arkhi HD" tvg-logo="https://hls.ga/images/chIcons/1613.png" tvg-rec="6", GE: Samefo Arkhi HD
 #EXTGRP:4. Georgia
@@ -300,55 +300,55 @@ https://11.hls.ga/ch3184/mono.m3u8?token=mamuka-sport.v2_R0Fw20gEMzoDa8BcYizU280
 #EXTGRP:4. Georgia
 https://11.hls.ga/ch3185/mono.m3u8?token=mamuka-sport.v2_1gzzTfrTAuMUTFwQ7waQW593IX5U1FOLQPIe_EkFBbvHNkviyrTR5v1zN8xx7xeXRk-VBczT8xzCTfGpgg
 #EXTINF:0 tvg-id="ch2317" tvg-name="GE: Digi+ HD" tvg-logo="https://hls.ga/images/chIcons/2317.png" tvg-rec="3", GE: Digi+ HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2317/mono.m3u8?token=mamuka-sport.v2_TLup5M3AOR48w6R-yz6RCUjp9szjpwXaRgOgQeeZ5jMBRa3K4Z4P7s8Qg9mP46uuwQrqCpJLlW6oI5SzCg
 #EXTINF:0 tvg-id="ch2315" tvg-name="GE: Digi+ Family HD" tvg-logo="https://hls.ga/images/chIcons/2315.png" tvg-rec="3", GE: Digi+ Family HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2315/mono.m3u8?token=mamuka-sport.v2_IRnNSHIU6ZxBiewhU6Gd12yzOOBi7hs6fBoTcMlVtW7FKo8DEw-2FbngvikrqSAFM3E41XJh4uao7i05wA
 #EXTINF:0 tvg-id="ch2316" tvg-name="GE: Digi+ Cinema HD" tvg-logo="https://hls.ga/images/chIcons/2316.png" tvg-rec="3", GE: Digi+ Cinema HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2316/mono.m3u8?token=mamuka-sport.v2_ao0q6_h4FwMNnaCqnTdh-TwIwmrrjNHEclYoDi64sS-l0PsS_dt6lGoocbZxveydrsjEBbos7vHo6K6Osg
 #EXTINF:0 tvg-id="ch2318" tvg-name="GE: Digi+ Action HD" tvg-logo="https://hls.ga/images/chIcons/2318.png" tvg-rec="3", GE: Digi+ Action HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2318/mono.m3u8?token=mamuka-sport.v2_c0ie9PctEc2T6VWyA9dKI4wMabPE9Z0UKZWrCU3DIpxYUD0wOyzd2v0A62en8S6IdN3udINbJ0xOJ2pWDg
 #EXTINF:0 tvg-id="ch2319" tvg-name="GE: Digi+ Drama HD" tvg-logo="https://hls.ga/images/chIcons/2319.png" tvg-rec="3", GE: Digi+ Drama HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2319/mono.m3u8?token=mamuka-sport.v2_H7blVgcr-1SoijJJwaUJue9FI7tO0bvS3L60dkGZwcdJvoRcPv5hRGvG2ap6fOVPvvcveQgVRRAP8rxmeg
 #EXTINF:0 tvg-id="ch2320" tvg-name="GE: Digi+ Horror HD" tvg-logo="https://hls.ga/images/chIcons/2320.png" tvg-rec="3", GE: Digi+ Horror HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2320/mono.m3u8?token=mamuka-sport.v2_DPD4Z0yj6MQpniI1b9l5tzO7bgpA81zJ2vasll0Rhzabkgui8wEV17d6CLA_dq3MrfBijFju81-keH17KA
 #EXTINF:0 tvg-id="ch2321" tvg-name="GE: Digi+ Premiere HD" tvg-logo="https://hls.ga/images/chIcons/2321.png" tvg-rec="3", GE: Digi+ Premiere HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2321/mono.m3u8?token=mamuka-sport.v2_T4Gf5rwgcB_vqIKUS6YA7aGxj3ueqQwnrMKUcZgg-e3qrQMZtTfw-7Ti9TnzzOh0_36c6UghnzhYFEhsiw
 #EXTINF:0 tvg-id="ch2322" tvg-name="GE: Digi+ Comedy HD" tvg-logo="https://hls.ga/images/chIcons/2322.png" tvg-rec="3", GE: Digi+ Comedy HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2322/mono.m3u8?token=mamuka-sport.v2_jBi-NbZDjFNZoJ1ulaKX-5ja4s646O4GrCn5bK_PCIjjCl7E6CST4zqucYvwddmV2ruQlua_wkBZ3dRQbg
 #EXTINF:0 tvg-id="ch2323" tvg-name="GE: DIGI+ Series HD" tvg-logo="https://hls.ga/images/chIcons/2323.png" tvg-rec="3", GE: DIGI+ Series HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2323/mono.m3u8?token=mamuka-sport.v2_ByZCnyJ0UT6C6IWXwLMVjjP67NAN3Pe_kvsDYuY3E5WU9QQokQyWi9DJIBHK4_X1VG5ZZNLzTWqyxg7TlQ
 #EXTINF:0 tvg-id="ch2324" tvg-name="GE: Digi+ Kids HD" tvg-logo="https://hls.ga/images/chIcons/2324.png" tvg-rec="3", GE: Digi+ Kids HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2324/mono.m3u8?token=mamuka-sport.v2_JxXLH0kgXpL6dsIBM_QxKfqAsUqTJHKnDHWjxrk0Km1ZWTFQNGR9EjrL2qw9-lgNLsWXPquN3uOB97t0Pw
 #EXTINF:0 tvg-id="ch2325" tvg-name="GE: Digi+ Music HD" tvg-logo="https://hls.ga/images/chIcons/2325.png" tvg-rec="3", GE: Digi+ Music HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2325/mono.m3u8?token=mamuka-sport.v2_V3WP5mXf38M7S9kjY7wrkz7XV_5wbWBHe_CHvXmdWLh2m6LZLpSJtlIQjxkNDj_Lzg357fI1MpAz9pCPjw
 #EXTINF:0 tvg-id="ch1493" tvg-name="GE: Digi+ Documentary HD" tvg-logo="https://hls.ga/images/chIcons/1493.png" tvg-rec="3", GE: Digi+ Documentary HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch1493/mono.m3u8?token=mamuka-sport.v2_cx1w3xVXrfPojEX4ETsSvH3YVisYxUnx8Dcl94YFv_-zGVibt06AFzyDxyXzm1ejAyfzBG1o0z5ToeDc0A
 #EXTINF:0 tvg-id="ch387" tvg-name="GE: Digi+ City HD" tvg-logo="https://hls.ga/images/chIcons/387.png" tvg-rec="3", GE: Digi+ City HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch387/mono.m3u8?token=mamuka-sport.v2_6PwgVIOrJZGmSFMBN4OxOx2jfjxzEJHb-XQ3_bPm8AFV9zKDlAvzpoucsSpbaGJHCp7fTBgCn-OWkdB9
 #EXTINF:0 tvg-id="ch389" tvg-name="GE: Digi+ Hits HD" tvg-logo="https://hls.ga/images/chIcons/389.png" tvg-rec="3", GE: Digi+ Hits HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch389/mono.m3u8?token=mamuka-sport.v2_ohyUFszVi5jkqvQo4_9gDqEDow1o-kAUJc6a7g6TMJUzRrsWGOOA-9lR1Mc72uVc0Th8U9quuZYuyasN
 #EXTINF:0 tvg-id="ch2814" tvg-name="Digi+ Georgian HD" tvg-logo="https://hls.ga/images/chIcons/2814.png" tvg-rec="3", Digi+ Georgian HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2814/mono.m3u8?token=mamuka-sport.v2_7vSvs4b76Y9xX_xFHoVqekHryjfdW2FHV7NOP_2VrMYrNoIY-qE65MVRcwYmj0pO7Ws4_0M83XMGRTFCJA
 #EXTINF:0 tvg-id="ch2327" tvg-name="GE: Digi+ 4K" tvg-logo="https://hls.ga/images/chIcons/2327.png" tvg-rec="3", GE: Digi+ 4K
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2327/mono.m3u8?token=mamuka-sport.v2_h-6sJq3JOdFjFrQ3enZtFKEMmYJOba_k9WQLcOAULwEt2Fsd2ZtLIbhFVTlMvotrtNYfyWrWqHt55T_Gtg
 #EXTINF:0 tvg-id="ch2328" tvg-name="GE: Digi + 4K 2" tvg-logo="https://hls.ga/images/chIcons/2328.png" tvg-rec="3", GE: Digi + 4K 2
-#EXTGRP:4. Georgia
+#EXTGRP:4. DIGI+
 https://11.hls.ga/ch2328/mono.m3u8?token=mamuka-sport.v2_8oOsXjPML0vCXFM4FRJietB5bTyrvURqoWzn7vIMlLVXikA4MMb9EFXFk4SzvbVfxaTb_w7-u7dQEiYgvA
 #EXTINF:0 tvg-id="ch416" tvg-name="GE: Comedie+ HD" tvg-logo="https://hls.ga/images/chIcons/416.png" tvg-rec="3", GE: Comedie+ HD
 #EXTGRP:4. Georgia
@@ -369,20 +369,20 @@ https://11.hls.ga/ch2389/mono.m3u8?token=mamuka-sport.v2_comPCpfcX-XlYEvcaSe6N7I
 #EXTGRP:4. Georgia
 https://11.hls.ga/ch1209/mono.m3u8?token=mamuka-sport.v2_hizB0MFkqoDfO36aYFCo6lIDxXENJa9dRxoOVdqUNt5jcW-eWZuKIWUW4X3XdsGWC226t-VEtr058pGjBw
 #EXTINF:0 tvg-id="ch3102" tvg-name="GE: CINE+ Ocs HD" tvg-logo="https://hls.ga/images/chIcons/3102.png" tvg-rec="3", GE: CINE+ Ocs HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3102/mono.m3u8?token=mamuka-sport.v2_Hr_-cLL08z7RiS8EhztgjckIdAORXjYzMJrNJgA7f7guC1fFQf5Tq7crv0S92hiW-84cXQLR_vDxr6UDNQ
 #EXTINF:0 tvg-id="ch3103" tvg-name="GE: CINE+ Frisson HD" tvg-logo="https://hls.ga/images/chIcons/3103.png" tvg-rec="3", GE: CINE+ Frisson HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3103/mono.m3u8?token=mamuka-sport.v2_iqKp6-WOQkxc6d4Lt_TYJiD7WpIpnoafk4MQk-47wMRX7NwHJRTBs2Mg6mcDbmdSnpUKVSlC9ajO2idR3w
 #EXTINF:0 tvg-id="ch3104" tvg-name="GE: CINE+ Emotion HD" tvg-logo="https://hls.ga/images/chIcons/3104.png" tvg-rec="3", GE: CINE+ Emotion HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3104/mono.m3u8?token=mamuka-sport.v2_ZP5badwgwJKWbEMclLbywpZkD5sWhYC-2FAF6Mg9F4YJxgdNh6FKfQXHD_Wopy_HvBRb0wMdnoUvpxu11A
 #EXTINF:0 tvg-id="ch3105" tvg-name="GE: CINE+ Family HD" tvg-logo="https://hls.ga/images/chIcons/3105.png" tvg-rec="3", GE: CINE+ Family HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3105/mono.m3u8?token=mamuka-sport.v2_jq8EHGWvcNgY6XQeuKeM-e5Yy78ZOsbOYZlQA3qmWiRi4cf6c2qRSbAiXh56faQZwBeiXmcLMD8_L9YsXw
 #EXTINF:0 tvg-id="ch3106" tvg-name="GE: CINE+ Festival HD" tvg-logo="https://hls.ga/images/chIcons/3106.png" tvg-rec="3", GE: CINE+ Festival HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3106/mono.m3u8?token=mamuka-sport.v2_6CnsOJrWgyVtbF16jd2vRIgTEdaknrJVO14qPmZb2o42s2BEqBJ3RiWyj-bhGdX3s8USvU32RtYt2muMPA
 #EXTINF:0 tvg-id="ch3107" tvg-name="GE: CINE+ Classic HD" tvg-logo="https://hls.ga/images/chIcons/3107.png" tvg-rec="3", GE: CINE+ Classic HD
-#EXTGRP:4. Georgia
+#EXTGRP:4. CINE+
 https://11.hls.ga/ch3107/mono.m3u8?token=mamuka-sport.v2_CMpzXnJBuJ8hfDntAsbijoWUBnojk_tpHcqbgtS6Vv-nDofn00b8AnmI-KjSZX8zO9RAH_5E1XJb2YqBVQ
