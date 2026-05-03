@@ -62,11 +62,11 @@ http://16.hls.ga/ch2334/mono.m3u8?token=kvirike.v2_DEBEkRLp21QLGnLisoIyGBs59mqCy
 #EXTINF:0 tvg-id="ch3307" tvg-name="Maestro TV HD" tvg-logo="http://hls.ga/images/chIcons/3307.png" tvg-rec="0", Maestro TV HD
 #EXTGRP:3. Music/Музыка
 http://16.hls.ga/ch3307/mono.m3u8?token=kvirike.v2_jHzyS4ShibNbFjhuxqlxFnhXYpVB7rUGYGHqCvL0XV4vHQnc9qm2CHBayY1gOQssqO2iyZFxt_dI
-#EXTINF:0 tvg-id="ch1593" tvg-name="GE: 1 Arkhi HD" tvg-logo="http://hls.ga/images/chIcons/1593.png" tvg-rec="6", GE: 1 Arkhi HD
-#EXTGRP:4. 📺 ქართული​🇬🇪
+#EXTINF:0 tvg-id="ch1593" tvg-name="​🇬🇪:​ 1 Arkhi HD" tvg-logo="http://hls.ga/images/chIcons/1593.png" tvg-rec="6", ​🇬🇪: 1 Arkhi HD
+#EXTGRP:4. 📺 ქართული​🇬🇪​​
 http://16.hls.ga/ch1593/mono.m3u8?token=kvirike.v2_A-lPO5dVawPLlMlLONPwziEn6JeoWb469GZC5vH0k0kwyQxg-MtjVC5q-CitxxBMco-qilVZVBwp
-#EXTINF:0 tvg-id="ch2822" tvg-name="GE: 1 Arkhi Sport HD" tvg-logo="http://hls.ga/images/chIcons/2822.png" tvg-rec="3", GE: 1 Arkhi Sport HD
-#EXTGRP:4. 📺 ქართული​🇬🇪
+#EXTINF:0 tvg-id="ch2822" tvg-name="​🇬🇪: 1 Arkhi Sport HD" tvg-logo="http://hls.ga/images/chIcons/2822.png" tvg-rec="3", ​🇬🇪: 1 Arkhi Sport HD
+#EXTGRP:4. 📺 ქართული​🇬🇪​​​
 http://16.hls.ga/ch2822/mono.m3u8?token=kvirike.v2_DbIIXO2fFHFyGAvWjYdGXv3SbSKwLn25-ebaIkIfyRhbcyBryniIlwt84MlSx0L9UNw4_sVJRexP
 #EXTINF:0 tvg-id="ch1205" tvg-name="GE: Ajara HD" tvg-logo="http://hls.ga/images/chIcons/1205.png" tvg-rec="6", GE: Ajara HD
 #EXTGRP:4. 📺 ქართული​🇬🇪
