@@ -1,36 +1,36 @@
 #EXTM3U generation-date="2026.04.26 18:54:08 MSK" url-tvg="https://epg.team/3.1.xml.gz"
 #EXTINF:0 tvg-id="ch127" tvg-name="RT HD" tvg-logo="http://hls.ga/images/chIcons/127.png" tvg-rec="0", RT HD
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch127/mono.m3u8?token=kvirike.v2_HYjLNxkAfHMzTEieS5JemPh8ljAt1CQQrZiR1iQ3wIc8jEcfmE8-PymAfhGM2vTCp_BZ6ZkrxMc
 #EXTINF:0 tvg-id="ch2117" tvg-name="CNBC HD" tvg-logo="http://hls.ga/images/chIcons/2117.png" tvg-rec="3", CNBC HD
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch2117/mono.m3u8?token=kvirike.v2_MdxsMH4fSIoSIXftnSTibN2A-qNjv5LvM-D5txsQiKyZLb-thmuQ8eKGZgK1vIaHwdrtKxJDjOij
 #EXTINF:0 tvg-id="ch498" tvg-name="EuroNews" tvg-logo="http://hls.ga/images/chIcons/498.png" tvg-rec="1", EuroNews
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch498/mono.m3u8?token=kvirike.v2_bIc5ELj3EpBGc0mQszp7vfQA6h0tjAL7HPEzK8BSHKICRJNRx6yMkAHreV9QEm-FebkVeElA9eg
 #EXTINF:0 tvg-id="ch499" tvg-name="BBC World News Europe" tvg-logo="http://hls.ga/images/chIcons/499.png" tvg-rec="0", BBC World News Europe
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch499/mono.m3u8?token=kvirike.v2_v3fbYgferoCjkhEfkWGH_qXs5Btz1czfWXyO9Ot0CwYN4kXyGN-zXTkBqyXm4iXf7uIDVPbPelk
 #EXTINF:0 tvg-id="ch500" tvg-name="CNN" tvg-logo="http://hls.ga/images/chIcons/500.png" tvg-rec="0", CNN
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch500/mono.m3u8?token=kvirike.v2_9-jpQghCIE8KhNLtK3fPYKc_ifmxRoDDho_nUd_kTAaQnZgZHrpOBwuOIktXA3WiPr_8JyQEw4g
 #EXTINF:0 tvg-id="ch2093" tvg-name="FOX News HD" tvg-logo="http://hls.ga/images/chIcons/2093.png" tvg-rec="0", FOX News HD
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch2093/mono.m3u8?token=kvirike.v2_4wKb5jyAeodrznbJ8ic2p9tXxIbPf2kVEpI-Qsh0US9LAiqiFCU6A61E6A_wz5KbnN9-SiNQJOot
 #EXTINF:0 tvg-id="ch3319" tvg-name="CGTN HD" tvg-logo="http://hls.ga/images/chIcons/3319.png" tvg-rec="0", CGTN HD
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch3319/mono.m3u8?token=kvirike.v2_2aduDIQ6pi_tubt3IEXih8UJNgENO8gHo3pk_U8HG5taUgjzQdY6X-83DzPtTowhliBCzYxPtXzT
 #EXTINF:0 tvg-id="ch1943" tvg-name="Asharq News" tvg-logo="http://hls.ga/images/chIcons/1943.png" tvg-rec="0", Asharq News
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch1943/mono.m3u8?token=kvirike.v2_JuXSVATsiCY0hfok2mc2WMZE9M_BtzZ2rPqNSpjrQN5S3Y71zXcIzruNp2dgO0LrnTqUCG4B2EQQ
 #EXTINF:0 tvg-id="ch1944" tvg-name="France 24" tvg-logo="http://hls.ga/images/chIcons/1944.png" tvg-rec="0", France 24
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch1944/mono.m3u8?token=kvirike.v2_-H-qx3FaBk3YFpJAI09v3d65eZ4YWDSYKL1QCtbZ7bIAXjsww-XyWN6aqKvCDh89FGETSU2TY2eU
 #EXTINF:0 tvg-id="ch1945" tvg-name="Al Jazeera" tvg-logo="http://hls.ga/images/chIcons/1945.png" tvg-rec="0", Al Jazeera
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch1945/mono.m3u8?token=kvirike.v2_CiPoY05tG4lqwLzMP19Astaoum0yD76SQQUalXo5ExuCJQUWVfymCZgN-6FZd1iyOQLzgQLNq3a_
 #EXTINF:0 tvg-id="ch1917" tvg-name="Bloomberg TV" tvg-logo="http://hls.ga/images/chIcons/1917.png" tvg-rec="0", Bloomberg TV
-#EXTGRP:1. News/Новости
+#EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch1917/mono.m3u8?token=kvirike.v2_JSvW7CL1bKR3hE2BGeA78Z5tXrVowrrtuIQS5OigjaQivk6XUiNvPg7StcyXsKPFqz0fhzpdK7j2
 #EXTINF:0 tvg-id="ch2332" tvg-name="Jetix" tvg-logo="http://hls.ga/images/chIcons/2332.png" tvg-rec="3", Jetix
 #EXTGRP:2. Kids/Детские
