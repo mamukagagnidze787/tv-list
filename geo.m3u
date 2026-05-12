@@ -1,4 +1,4 @@
-EXTM3U ur-tvg=https://epg.team/3.1.xml.tar.gz
+#EXTM3U generation-date="2026.05.12 21:41:42 MSK" url-tvg="https://epg.team/3.1.xml.gz"
 #EXTINF:0 tvg-id="ch001" tvg-name="Первый HD" tvg-logo="https://hls.gd/images/chIcons/1.png" tvg-rec="7", Первый HD
 #EXTGRP:1. Federal/Федеральные
 https://16.hls.gd/ch001/mono.m3u8?token=kvirike.v2_6z8Cr8CpGXbpSRyrRWjaBVS_N1ntMgaV3vvEJqNfCkstfYz87BGP3A0sxJM-F4ad_2UmazcH&nostub=1
