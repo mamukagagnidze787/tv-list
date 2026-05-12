@@ -1,4 +1,6 @@
-#EXTM3U generation-date="2026.04.26 18:54:08 MSK" url-tvg="https://epg.team/3.1.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/xmltv.xml.gz"
+#EXTINF:-1 group-title="Mamuka-Geo List", --- ჩემი არხები ---
+https://tinyurl.com/mamuka-geo787
 #EXTINF:0 tvg-id="ch127" tvg-name="RT HD" tvg-logo="http://hls.ga/images/chIcons/127.png" tvg-rec="0", RT HD
 #EXTGRP:1. 🗞️🌍News/Новости
 http://16.hls.ga/ch127/mono.m3u8?token=kvirike.v2_HYjLNxkAfHMzTEieS5JemPh8ljAt1CQQrZiR1iQ3wIc8jEcfmE8-PymAfhGM2vTCp_BZ6ZkrxMc
