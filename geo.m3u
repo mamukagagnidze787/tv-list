@@ -1,4 +1,4 @@
-#EXTM3U url tvg="https://epg.team/3.1.xml.gz"
+#EXTM3U url-tvg="https://epg.team/3.1.xml.gz"
 #EXTINF:0 tvg-id="ch127" tvg-name="RT HD" tvg-logo="https://hls.ga/images/chIcons/127.png" tvg-rec="0", RT HD
 #EXTGRP:1. News/Новости
 https://16.hls.ga/ch127/mono.m3u8?token=kvirike.v2_9ZpTQ095YvLbKZPBjYYXLI1Y1U0Cu3CtoKCxqXxoD35_dBr-zzcsUMiXXSTzzmh83iQwqc0mtJg
