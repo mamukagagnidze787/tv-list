@@ -389,7 +389,7 @@ https://16.hls.ga/ch3107/mono.m3u8?token=kvirike.v2_sqvz8Bo6vbKha3mdwSbDV6YUcRij
 #EXTINF:0 tvg-rec="3",VF Счастливы Вместе
 #EXTINF:-1 tvg-id="Eurasia.ru" tvg-name="Eurasia" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="general",Eurasia
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTGRP:познавательные
+#EXTGRP:Познавательные
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:0 tvg-rec="7", wildearth
 #EXTGRP:кино
