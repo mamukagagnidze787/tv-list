@@ -387,6 +387,8 @@ https://16.hls.ga/ch3106/mono.m3u8?token=kvirike.v2_RbL_roFezTrUcOkZntCjZZY5WuoH
 #EXTGRP:4. CINE+🎬📺
 https://16.hls.ga/ch3107/mono.m3u8?token=kvirike.v2_sqvz8Bo6vbKha3mdwSbDV6YUcRijvufiO12gTjNOFIyVK4KgafGtShw6rjRD90Erxsytyo9hnUaK
 #EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTINF:-1 tvg-id="Eurasia.ru" tvg-name="Eurasia" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="general",Eurasia
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTGRP:кино
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/9242/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Бесстыжие
