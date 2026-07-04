@@ -3361,51 +3361,51 @@ http://stream.vivamax.pro/aiatv/index.m3u8?token=b0f0eba996b9
 http://stream.vivamax.pro/TV8_GE/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Chveni Arkhi (GE)" tvg-name="GE: Chveni Arkhi" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/chveniarxi.png",ჩვენი არხი
 http://stream.vivamax.pro/ChveniArkhi/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + HD" tvg-name="GE: Digi+ HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digiplus.png",Digi+
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + HD" tvg-name="GE: Digi+ HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digiplus.png",Digi+
 http://stream.vivamax.pro/DigiplusHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Cinema HD" tvg-name="GE: Digi+ Cinema HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digicinemas.png",Digi+ Cinema
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Cinema HD" tvg-name="GE: Digi+ Cinema HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digicinemas.png",Digi+ Cinema
 http://stream.vivamax.pro/DigiCinemaHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Action HD" tvg-name="GE: Digi+ Action HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digiaction.png",Digi+ Action
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Action HD" tvg-name="GE: Digi+ Action HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digiaction.png",Digi+ Action
 http://stream.vivamax.pro/DigiplusActionHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Family HD" tvg-name="GE: Digi+ Family HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digifamily.png",Digi+ Family
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Family HD" tvg-name="GE: Digi+ Family HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digifamily.png",Digi+ Family
 http://stream.vivamax.pro/DigiplusFamilyHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Kids HD" tvg-name="GE: Digi+ Kids HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digikids.png",Digi+ Kids
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Kids HD" tvg-name="GE: Digi+ Kids HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digikids.png",Digi+ Kids
 http://stream.vivamax.pro/DigiplusKidsHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Drama HD" tvg-name="GE: Digi+ Drama HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digidrama.png",Digi+ Drama
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Drama HD" tvg-name="GE: Digi+ Drama HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digidrama.png",Digi+ Drama
 http://stream.vivamax.pro/DigiplusDramaHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Horror HD" tvg-name="GE: Digi+ Horror HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digihorror.png",Digi+ Horror
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Horror HD" tvg-name="GE: Digi+ Horror HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digihorror.png",Digi+ Horror
 http://stream.vivamax.pro/DigiplusHorrorHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Premiere HD" tvg-name="GE: Digi+ Premiere HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digipremiere.png",Digi+ Premiere
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Premiere HD" tvg-name="GE: Digi+ Premiere HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digipremiere.png",Digi+ Premiere
 http://stream.vivamax.pro/DigiplusPremiereHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Comedy HD" tvg-name="GE: Digi+ Comedy HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digicomedy.png",Digi+ Comedy
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Comedy HD" tvg-name="GE: Digi+ Comedy HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digicomedy.png",Digi+ Comedy
 http://stream.vivamax.pro/DigiplusComedyHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="DIGI+ Series HD" tvg-name="GE: DIGI+ Series HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digiseries.png",Digi+ Series HD
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="DIGI+ Series HD" tvg-name="GE: DIGI+ Series HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digiseries.png",Digi+ Series HD
 http://stream.vivamax.pro/DigiplusSeriesHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ City HD" tvg-name="GE: Digi+ City HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digicity.png",Digi+ City
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ City HD" tvg-name="GE: Digi+ City HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digicity.png",Digi+ City
 http://stream.vivamax.pro/DigiplusCityHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ Hits HD" tvg-name="GE: Digi+ Hits HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digihits.png",Digi+ Hits
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ Hits HD" tvg-name="GE: Digi+ Hits HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digihits.png",Digi+ Hits
 http://stream.vivamax.pro/DigiplusHitsHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ Georgian HD" tvg-name="Digi+ Georgian HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digigeorgian.png",Digi+ Georgian
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi+ Georgian HD" tvg-name="Digi+ Georgian HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digigeorgian.png",Digi+ Georgian
 http://stream.vivamax.pro/DigiplusGeorgianHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Documentary HD" tvg-name="GE: Digi+ Documentary HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digidocs.png",Digi+ Documentary
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Documentary HD" tvg-name="GE: Digi+ Documentary HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digidocs.png",Digi+ Documentary
 http://stream.vivamax.pro/DigiplusDocumentary/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + 4K Ultra HD" tvg-name="GE: Digi+ 4K" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digi4k.png",Digi+ 4K Ultra
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + 4K Ultra HD" tvg-name="GE: Digi+ 4K" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digi4k.png",Digi+ 4K Ultra
 http://stream.vivamax.pro/Digiplus4KUltraHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="DIGI+4K 2" tvg-name="GE: Digi + 4K 2" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digi4k2.png",Digi+ 4K 2
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="DIGI+4K 2" tvg-name="GE: Digi + 4K 2" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digi4k2.png",Digi+ 4K 2
 http://stream.vivamax.pro/Digiplus4K2/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Music HD" tvg-name="GE: Digi+ Music HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/digimusic.png",Digi+ Мusic
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Digi + Music HD" tvg-name="GE: Digi+ Music HD" group-title="DIGI+" tvg-logo="http://logo.vivamax.pro/logo/digimusic.png",Digi+ Мusic
 http://stream.vivamax.pro/DigiMusicHD/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Ocs" tvg-name="GE: CINE+ Ocs HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/cineplusocs.png",CINE+ Ocs
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Ocs" tvg-name="GE: CINE+ Ocs HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/cineplusocs.png",CINE+ Ocs
 http://stream.vivamax.pro/CineplusOcs/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Frisson" tvg-name="GE: CINE+ Frisson HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/cineplusfrisson.png",CINE+ Frisson
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Frisson" tvg-name="GE: CINE+ Frisson HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/cineplusfrisson.png",CINE+ Frisson
 http://stream.vivamax.pro/CineplusFrisson/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Emotion" tvg-name="GE: CINE+ Emotion HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/emotion.png",CINE+ Emotion
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Emotion" tvg-name="GE: CINE+ Emotion HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/emotion.png",CINE+ Emotion
 http://stream.vivamax.pro/CineplusEmotion/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Family" tvg-name="GE: CINE+ Family HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/cineplusfamily.png",CINE+ Family
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Family" tvg-name="GE: CINE+ Family HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/cineplusfamily.png",CINE+ Family
 http://stream.vivamax.pro/CineplusFamily/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Festival" tvg-name="GE: CINE+ Festival HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/cineplusfestival.png",CINE+ Festival
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Festival" tvg-name="GE: CINE+ Festival HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/cineplusfestival.png",CINE+ Festival
 http://stream.vivamax.pro/CineplusFestival/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Classic" tvg-name="GE: CINE+ Classic HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/cineplusclassic.png",CINE+ Classic
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="CINE+ Classic" tvg-name="GE: CINE+ Classic HD" group-title="CINE+" tvg-logo="http://logo.vivamax.pro/logo/cineplusclassic.png",CINE+ Classic
 http://stream.vivamax.pro/CineplusClassic/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Kitchen+" tvg-name="GE: Kitchen+" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/kitchen.png",Kitchen+
 http://stream.vivamax.pro/Kitchenplus/index.m3u8?token=b0f0eba996b9
