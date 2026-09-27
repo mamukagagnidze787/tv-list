@@ -4500,8 +4500,6 @@ http://stream.vivamax.pro/Sinema1001/index.m3u8?token=b0f0eba996b9
 #Server: de.vivamax.pro
 #Adult: Disabled
 http://stream.vivamax.pro/Sinema1002/index.m3u8?token=b0f0eba996b9
-#EXTINF:-1 group-title="saojaxo", 2008/20.07
-https://www.dropbox.com/scl/fi/oyh9bjbo7t02blnwucuah/VTS_07_1.VOB?rlkey=5o3o3hdpmjhpck0k8vnzc8c05&st=emu88hwx&dl=1
 #EXTINF:-1 group-title="Бенедикт Камбербэтч" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b7/12_Years_a_Slave_poster.jpg" $ExtFilter="StarGold",12 лет рабства (2013)
 https://o2.anwap.be/ohls/H-xpz_n6Lgx3jthOA16L6A/1745569591/12_let_rabstva-9651_(anwap.org).m3u8
 #EXTINF:-1 group-title="Бенедикт Камбербэтч" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlds-NHiLeSQGpYFz4QumalXmzDCSFDzm8lA&s" $ExtFilter="StarGold",Август: Графство Осейдж (2013)
