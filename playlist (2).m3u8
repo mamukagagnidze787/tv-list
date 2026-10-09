@@ -1161,7 +1161,6 @@ http://stream.vivamax.pro/KLI_Kinoseria/index.m3u8?token=b0f0eba996b9
 http://stream.vivamax.pro/KLI_Novinki/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Kli_Rublevka" group-title="Кинозалы" tvg-logo="http://logo.vivamax.pro/logo/KLI.png",KLI Полицейский с Рублёвки
 http://stream.vivamax.pro/KLI_Policeyski_s_rublyovki/index.m3u8?token=b0f0eba996b9
-
 #EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Liberty DC" tvg-name="Liberty DC" group-title="Кинозалы" tvg-logo="http://logo.vivamax.pro/logo/liberty-dc.png",Liberty DC
 http://stream.vivamax.pro/Liberty_DC/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="4" catchup-type="flussonic" tvg-id="Liberty Marvel" tvg-name="Liberty Marvel" group-title="Кинозалы" tvg-logo="http://logo.vivamax.pro/logo/liberty-marvel.png",Liberty Marvel
