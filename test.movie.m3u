@@ -1,1 +1,15 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Пример боевика" tvg-logo="" group-title="Боевики",Название боевика (1080p)
+http://example.com/stream/action1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример военного" tvg-logo="" group-title="Военные",Название военного фильма (1080p)
+http://example.com/stream/war1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример драмы" tvg-logo="" group-title="Драма",Название drama1.ts (1080p)
+http://example.com/stream/drama1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример комедии" tvg-logo="" group-title="Комедии",Название комедии (1080p)
+http://example.com/stream/comedy1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример мелодрамы" tvg-logo="" group-title="Мелодрамы",Название мелодрамы (1080p)
+http://example.com/stream/melodrama1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример триллера" tvg-logo="" group-title="Триллеры",Название триллера (1080p)
+http://example.com/stream/triller1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Пример ужасов" tvg-logo="" group-title="Ужасы",Название ужасов (1080p)
+http://example.com/stream/horror1.ts
