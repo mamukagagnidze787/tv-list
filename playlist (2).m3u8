@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epg.vivamax.pro/epg.xml.gz"
 #EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Первый HD" group-title="Федеральные" tvg-logo="http://logo.vivamax.pro/logo/pervikanal.png",Первый канал
 http://stream.vivamax.pro/PerviKanal/index.m3u8?token=b0f0eba996b9
+#EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="General",Osetiya-Iryston (1080p)
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Россия 1" group-title="Федеральные" tvg-logo="http://logo.vivamax.pro/logo/rosia1.png",Россия 1
 http://stream.vivamax.pro/Russia1/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="НТВ HD" group-title="Федеральные" tvg-logo="http://logo.vivamax.pro/logo/ntv.png",НТВ
