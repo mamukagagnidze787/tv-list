@@ -3,6 +3,8 @@
 http://stream.vivamax.pro/PerviKanal/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="🎬Movies",Kino 1 (Russia) [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="General",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="General",Osetiya-Iryston (1080p)
@@ -5080,8 +5082,6 @@ https://www.dropbox.com/scl/fi/motjc2z869ego547p7a9e/Mina_nachinaet_tikatq-14756
 https://www.dropbox.com/scl/fi/2knr91wb7u7mwid1owa03/Odnazhdy_v_Gaze-47208_-anwap.org.mp4?rlkey=qf38zespiwto5oculd19ai48z&st=zeznegtb&dl=1
 #EXTINF:-1 group-title="🎬comedy",Филипиньяна/singapur-fillippin/2026
 https://www.dropbox.com/scl/fi/9hstczsvbtmrilkm0whx4/Filipiana-48824_-anwap.org.mp4?rlkey=ll5ucg7bkrbbcumog5dj0d8bt&st=ltaan5ky&dl=1
-#EXTINF:-1 group-title="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
-https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🔪triller",Субира/kenia/2017
 https://www.dropbox.com/scl/fi/uwlxhhserioe1bf3dsxnf/Subira-23352_-anwap.org.mp4?rlkey=cjbj9be90ohh9bk7jvkflcflg&st=50x1qbhu&dl=1
 #EXTINF:-1 group-title="🔪triller",Наживка/malta/2026
