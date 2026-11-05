@@ -5,6 +5,8 @@ http://stream.vivamax.pro/PerviKanal/index.m3u8?token=b0f0eba996b9
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ბუნების კარი", ირმები... 
+https://www.dropbox.com/scl/fi/4yru9zj87dcg1fwth5o7u/Recording-2026-10-09-203012.mp4?rlkey=irne89iuh477zf79co74m1c6d&st=oa3qo6tq&dl=1
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="General",Apsua TV
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="General",Osetiya-Iryston (1080p)
@@ -4962,52 +4964,22 @@ https://o8.anwap.be/ohls/d18YIq7cEiJEV5J4ncefzg/1751081811/The_Shamrock_Spitfire
 https://o3.anwap.be/ohls/EANuTygJsDy1_mqQWsQCrg/1748618757/YEskadrilqya_303._Podlinnaya_istoriya-22312_(anwap.org).m3u8
 #EXTINF:-1 group-title="Военное кино" tvg-logo="https://x-film.ws/uploads/posts/2022-09/19041031091-1906130128-eti-chertovy-gody-2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Kinozal",Эти чертовы годы 2 (2021)
 https://o6.anwap.be/ohls/GKTKEGdrwvLhAghh9HEoJA/1748618689/De_forbandede_r_2-35415_(anwap.org).m3u8
-#EXTINF:-1 group-title="🧟HORROR", ХОРОШИЕ/2026
-https://www.dropbox.com/scl/fi/5zm37us37epabgecfrrpi/The_Nice_Ones-48863_-anwap.org.mp4?rlkey=pdljsd0cvyu3r1w3yuq0e1llh&st=9qou4q69&dl=1
-#EXTINF:-1 group-title="🧟HORROR",УИДЖА._ШЕПОТЫ МЕРТВЫХ/ФИЛЛИППИНЫ 2023
-https://www.dropbox.com/scl/fi/9xgk6tlptamwa0jen6m3b/Uidzha._SHepoty_mertvyh-47531_-anwap.org.mp4?rlkey=nvt03nhava5nq9gcbzoj5mqt3&st=v9s664se&dl=1
-#EXTINF:-1 group-title="🎭 Драма", антон/украина,грузия,сша,литва,испания,канада(2019)
-https://www.dropbox.com/scl/fi/li0by1qih0gkzraihhk4o/Anton-42918_-anwap.org.mp4?rlkey=3wyuakoy062vgj7bsug3xrvhf&st=rieleaa5&dl=1
-#EXTINF:-1 group-title="🎭 Драма", априль/грузия,италия,франция(2024)
-https://www.dropbox.com/scl/fi/laschswclbozsasos252t/Aprelq-45990_-anwap.org.mp4?rlkey=s12vou41mmipyqi0e0p6n7oyi&st=prteu2x0&dl=1
-#EXTINF:-1 group-title="🎭 Драма",пересечение/швеция,дания,франция,турция,грузия(2024)
-https://www.dropbox.com/scl/fi/8l8ivzr4i2zbvksm1n4hj/Crossing-43231_-anwap.org.mp4?rlkey=p8d014htqdf8vn1ee42nlmruu&st=ht6oy2aw&dl=1
-#EXTINF:-1 group-title="🎭 Драма", татами/сша,великобритания,грузия(2023)
-https://www.dropbox.com/scl/fi/sno0e6l5x6rjig2ybidy5/Tatami-42977_-anwap.org.mp4?rlkey=zgdoxzm6j9ct5ry0yezj0o8ge&st=p1eweje6&dl=1
-#EXTINF:-1 group-title="🎬comedy", უჩინარი ბიჭი
-https://www.dropbox.com/scl/fi/7hcaent4cx0q56kkg18cj/Recording-2026-10-08-204303.mp4?rlkey=ymohkziqv67of7krrnx0njb6w&st=msoeo7az&dl=1
-#EXTINF:-1 group-title="ბუნების კარი", ირმები... 
-https://www.dropbox.com/scl/fi/4yru9zj87dcg1fwth5o7u/Recording-2026-10-09-203012.mp4?rlkey=irne89iuh477zf79co74m1c6d&st=oa3qo6tq&dl=1
-#EXTINF:-1 group-title="🎭 Драма", vulkan ishcanul/gvatemala-france/2015 
-https://www.dropbox.com/scl/fi/2zn7u7j2po0gunhoaqxnm/Vulkan_Ishkanul-17089_-anwap.org.mp4?rlkey=wm6piccmid9ximdn1kmuk4r3i&st=o7jq0w23&dl=1
-#EXTINF:-1 group-title="🎬comedy",Банда любовниц/Гана\2018
-https://www.dropbox.com/scl/fi/i5xbdfgk8fkxpayyz6u4u/Sidechic_Gang-22181_-anwap.org.mp4?rlkey=tjwob2r9kimmjg9tahrmerxbu&st=5ajur4jz&dl=1
-#EXTINF:-1 group-title="🧟HORROR", PAKU TANAH JAVA/Малайзия-индонезия\2024
-https://www.dropbox.com/scl/fi/f1vl5o1omnlabldq8zdar/Paku_Tanah_Jawa-43822_-anwap.org.mp4?rlkey=dpe3414jgo885v854f96a0a9f&st=5ivltzyy&dl=1
-#EXTINF:-1 group-title="🎬comedy", Africa United/руанда/2010
-https://www.dropbox.com/scl/fi/cq7m7f69sohuk2li2id6h/Bolqshie_priklyucheniya_v_Afrike-7999_-anwap.org.mp4?rlkey=rcr1em3d1hw92aewvbzkj0r3g&st=c6lywzxt&dl=1
-#EXTINF:-1 group-title="🎭 Драма", ложь во спасение/кения.индия.сша/2014
-https://www.dropbox.com/scl/fi/tahzco5cwznvsuq4u19ri/Lozhq_vo_spasenie-12258_-anwap.org.mp4?rlkey=to3l0hw4vaxzg74hoyptbu2cs&st=xfczv947&dl=1
-#EXTINF:-1 group-title="🧟HORROR",СИНИСТЕР.Обитель зла/камбоджа/2024
-https://www.dropbox.com/scl/fi/dvso4aj7i66gxvl9qeohq/Sinister._Obitelq_zla-44335_-anwap.org.mp4?rlkey=ttlgssxzlawpov6vsg8qwlwxl&st=41rca98t&dl=1
-#EXTINF:-1 group-title="🎬comedy",toubab/Германия/сенегал/2021
-https://www.dropbox.com/scl/fi/6fneqypjsnyxuter1nxjw/Tubab-36161_-anwap.org.mp4?rlkey=vyiq9xj7p0kju9tdqblzop6y8&st=7zhcdsl0&dl=1
-#EXTINF:-1 group-title="🧟HORROR", зона зомби/монголия/2024
-https://www.dropbox.com/scl/fi/92pms70pgwfeyq86ad1sn/Z_Zone-45297_-anwap.org.mp4?rlkey=h90ahf7ycoe1s3frix0wrdj8u&st=bmpz0kms&dl=1
 #EXTINF:-1 group-title="Военное кино",Мистер Пип/папуа_новая гвинея/2012
 https://www.dropbox.com/scl/fi/eebmvpzfxut69rh3zw9u7/Mister_Pip-10576_-anwap.org.mp4?rlkey=m41jjqxb1kairj0e9youo2loo&st=drcwsqri&dl=1
-#EXTINF:-1 group-title=""🎭 Драма",ДОРОГА В МАНДАЛАЙ/ТаЙВАНЬ_МЬЯНМА/2016
-https://www.dropbox.com/scl/fi/8gf6u99bplg7858jaqhtd/Doroga_v_Mandalaj-21841_-anwap.org.mp4?rlkey=xx70tnv1oif2evzk8w2xrbgt7&st=xzpg87t7&dl=1
-#EXTINF:-1 group-title="🎭 Драма", Между Дели и Лахором/Индия_Фиджи/2014
-https://www.dropbox.com/scl/fi/982viw9szt6aq9bgvheor/Mezhdu_Deli_i_Lahorom-12572_-anwap.org.mp4?rlkey=tezt9xbw0cu83312n2nub986m&st=my38hfxw&dl=1
 #EXTINF:-1 group-title="🧟HORROR", Пусть идёт снег/ГРУЗИЯ-УКРАИНА/2020
 https://www.dropbox.com/scl/fi/ew86e7oq0h6a5otvq2rh1/Pustq_idyot_sneg-27403_-anwap.org.mp4?rlkey=n34y1oyrgb3g0akgprif5apeh&st=j3yhxlyl&dl=1
-#EXTINF:-1 group-title="🎭 Драма", პაჰუნა: პატარა სტუმრები/NEPAL-INDIA/2017
-https://www.dropbox.com/scl/fi/b3bl35ozob28ls7pnnekk/Pahuna_The_Little_Visitors-22806_-anwap.org.mp4?rlkey=lqnrxkwcrj2mkkz2l0buv6f94&st=rvbx40ic&dl=1
-#EXTINF:-1 group-title="🎭 Драма",Большие приключения в Африке/РУАНДА/2010
-https://www.dropbox.com/scl/fi/cq7m7f69sohuk2li2id6h/Bolqshie_priklyucheniya_v_Afrike-7999_-anwap.org.mp4?rlkey=rcr1em3d1hw92aewvbzkj0r3g&st=dlb70a07&dl=1
-#EXTINF:-1 group-title="🎭 Драма", Нация храбрецов (Храбрая нация)ANGOLA-FRANCE/2022
-https://www.dropbox.com/scl/fi/sati7c8nb10jp8siyoedm/Naciya_hrabrecov-38629_-anwap.org.mp4?rlkey=nsxq9nxht3vrm1g36khkulkx0&st=p2lp9zbf&dl=1
+#EXTINF:-1 group-title="🧟HORROR", ХОРОШИЕ/2026
+https://www.dropbox.com/scl/fi/5zm37us37epabgecfrrpi/The_Nice_Ones-48863_-anwap.org.mp4?rlkey=pdljsd0cvyu3r1w3yuq0e1llh&st=9qou4q69&dl=1
+#EXTINF:-1 group-title="🧟HORROR", PAKU TANAH JAVA/Малайзия-индонезия\2024
+https://www.dropbox.com/scl/fi/f1vl5o1omnlabldq8zdar/Paku_Tanah_Jawa-43822_-anwap.org.mp4?rlkey=dpe3414jgo885v854f96a0a9f&st=5ivltzyy&dl=1
+#EXTINF:-1 group-title="🧟HORROR",СИНИСТЕР.Обитель зла/камбоджа/2024
+https://www.dropbox.com/scl/fi/dvso4aj7i66gxvl9qeohq/Sinister._Obitelq_zla-44335_-anwap.org.mp4?rlkey=ttlgssxzlawpov6vsg8qwlwxl&st=41rca98t&dl=1
+#EXTINF:-1 group-title="🧟HORROR",УИДЖА._ШЕПОТЫ МЕРТВЫХ/ФИЛЛИППИНЫ 2023
+https://www.dropbox.com/scl/fi/9xgk6tlptamwa0jen6m3b/Uidzha._SHepoty_mertvyh-47531_-anwap.org.mp4?rlkey=nvt03nhava5nq9gcbzoj5mqt3&st=v9s664se&dl=1
+#EXTINF:-1 group-title="🧟HORROR", зона зомби/монголия/2024
+https://www.dropbox.com/scl/fi/92pms70pgwfeyq86ad1sn/Z_Zone-45297_-anwap.org.mp4?rlkey=h90ahf7ycoe1s3frix0wrdj8u&st=bmpz0kms&dl=1
+#EXTINF:-1 group-title="🧟HORROR",Красный Дьявол в собственности/პანამა/2019
+https://www.dropbox.com/scl/fi/fbrtb0f4je2thmh20cj01/Krasnyj_Dqyavol_v_sobstvennosti-26922_-anwap.org.mp4?rlkey=nb6q4fm9dy69pc21y0jcpq84z&st=sw3bvdbv&dl=1
 #EXTINF:-1 group-title="🧟HORROR", Три поросёнка-убийцы/usa/2026
 https://www.dropbox.com/scl/fi/a1vizxy3wjg9lb2k5sne2/The_3_Killer_Pigs_skachatq_torrent_besplatno_v_horoshem_kachestve_HD_1080__720-48993_-anwap.org.mp4?rlkey=0xod802jaop3ggxbeap1pqv9m&st=bdqa4qjh&dl=1
 #EXTINF:-1 group-title="🧟HORROR", Пункт назначения: Мост №13/indonezia/2026
@@ -5034,14 +5006,12 @@ https://www.dropbox.com/scl/fi/5tkhoyylcb49hfvgps77o/Penthaus-48680_-anwap.org.m
 https://www.dropbox.com/scl/fi/z5il2lbsbi48unfa3j4gj/Poteryannyj_raj-12903_-anwap.org.mp4?rlkey=fldkhru6l43w8w2jh4cmy9o0l&st=nt43ad2j&dl=1
 #EXTINF:-1 group-title="🔪triller",Автобус страха/кения\2020
 https://www.dropbox.com/scl/fi/cvhz5zq7zqx4deh2oce62/40_Sticks-31459_-anwap.org.mp4?rlkey=iivsk4yzo5ywfbueyd32ffwfr&st=rd9jr2n7&dl=1
-#EXTINF:-1 group-title="🔪triller",Субира/2017/Кения
-https://www.dropbox.com/scl/fi/uwlxhhserioe1bf3dsxnf/Subira-23352_-anwap.org.mp4?rlkey=cjbj9be90ohh9bk7jvkflcflg&st=9spsjaia&dl=1
-#EXTINF:-1 group-title="🎬comedy",Я, «Победа» и Берлин/ukraina/2024
-https://www.dropbox.com/scl/fi/bnvdufkwgk6dv3a9xfb7q/YA_Pobeda_i_Berlin-42631_-anwap.org.mp4?rlkey=pjlw7v47acwpjlrkaf8xd0mgc&st=08gul66a&dl=1
-#EXTINF:-1 group-title="🎬comedy",Орсай/paragvai/2019
-https://www.dropbox.com/scl/fi/oq57odt3mrbmwhnbgqjrh/Orsai-30612_-anwap.org.mp4?rlkey=wzoy7ewsif8ai7qh4gdyck4vg&st=m141nxv2&dl=1
 #EXTINF:-1 group-title="🔪triller",Марьян/Namibia-india/2013
 https://www.dropbox.com/scl/fi/gsztj3d5h33tregi90qkf/Marqyan-9871_-anwap.org.mp4?rlkey=3fx9ujnimodm7r9so5dd8ok4y&st=pryb2o7d&dl=1
+#EXTINF:-1 group-title="🔪triller",Европа/ერაყი,ქუვეითი,იტალია/2021
+https://www.dropbox.com/scl/fi/gzzyvbeidetme5vkgnffx/Evropa-35467_-anwap.org.mp4?rlkey=rhbwfkq26je1ebznv8fqifyq2&st=chidgkei&dl=1
+#EXTINF:-1 group-title="🔪triller",Субира/2017/Кения
+https://www.dropbox.com/scl/fi/uwlxhhserioe1bf3dsxnf/Subira-23352_-anwap.org.mp4?rlkey=cjbj9be90ohh9bk7jvkflcflg&st=9spsjaia&dl=1
 #EXTINF:-1 group-title="🎥 Боевики",მამაცი ბავშვები/tailand
 https://www.dropbox.com/scl/fi/7yw7v4tcc04519x3avziv/_10.mp4?rlkey=cn3wl64i1xacjgk6adsvcro67&st=232cuii7&dl=1
 #EXTINF:-1 group-title="🎥 Боевики", გადამზიდი-4/usa
@@ -5100,24 +5070,54 @@ https://www.dropbox.com/scl/fi/zu5e7h996hcim9828sfky/ZHivotnyee-48921_-anwap.org
 https://www.dropbox.com/scl/fi/v9u1v2f17j6pgtcioog9m/Ushu-3661_-anwap.org.mp4?rlkey=4jn6ae8q8x3doca8tzrqmqv6h&st=rv9keodj&dl=1
 #EXTINF:-1 group-title="🎥 Боевики", ჯონ ტრავოლტას მონაწილეობით 2026
 https://www.dropbox.com/scl/fi/t6yb1gkhivpb3bljh0zw4/Sorvatq_bank_3_Vor-dzhentlqmen-48507_-anwap.org.mp4?rlkey=spetn0f76syfi0yvhqg4nr6mp&st=2963l6ln&dl=1
-#EXTINF:-1 group-title="🧟HORROR",Красный Дьявол в собственности/პანამა/2019
-https://www.dropbox.com/scl/fi/fbrtb0f4je2thmh20cj01/Krasnyj_Dqyavol_v_sobstvennosti-26922_-anwap.org.mp4?rlkey=nb6q4fm9dy69pc21y0jcpq84z&st=sw3bvdbv&dl=1
-#EXTINF:-1 group-title="🔪triller",Европа/ერაყი,ქუვეითი,იტალია/2021
-https://www.dropbox.com/scl/fi/gzzyvbeidetme5vkgnffx/Evropa-35467_-anwap.org.mp4?rlkey=rhbwfkq26je1ebznv8fqifyq2&st=chidgkei&dl=1
 #EXTINF:-1 group-title="🎭 Драма",Уаллай/საფრანგეთი,ბურკინა-ფასო/2017
 https://www.dropbox.com/scl/fi/p1cswqrik5a2kr0h2b9nz/Wallay-23536_-anwap.org.mp4?rlkey=14gr7xztxw82620tz22pi88rc&st=8bm0zwy5&dl=1
 #EXTINF:-1 group-title="🎭 Драма",Разговоры в пути/Nigeria/2025
 https://www.dropbox.com/scl/fi/bzq3mk4qoom9egtwh9ify/Conversations_in_Transit-46251_-anwap.org.mp4?rlkey=5h34bzy7x53t9isknlio3i356&st=lx2ea3fi&dl=1
+#EXTINF:-1 group-title="🎭 Драма", антон/украина,грузия,сша,литва,испания,канада(2019)
+https://www.dropbox.com/scl/fi/li0by1qih0gkzraihhk4o/Anton-42918_-anwap.org.mp4?rlkey=3wyuakoy062vgj7bsug3xrvhf&st=rieleaa5&dl=1
+#EXTINF:-1 group-title="🎭 Драма", априль/грузия,италия,франция(2024)
+https://www.dropbox.com/scl/fi/laschswclbozsasos252t/Aprelq-45990_-anwap.org.mp4?rlkey=s12vou41mmipyqi0e0p6n7oyi&st=prteu2x0&dl=1
+#EXTINF:-1 group-title="🎭 Драма",пересечение/швеция,дания,франция,турция,грузия(2024)
+https://www.dropbox.com/scl/fi/8l8ivzr4i2zbvksm1n4hj/Crossing-43231_-anwap.org.mp4?rlkey=p8d014htqdf8vn1ee42nlmruu&st=ht6oy2aw&dl=1
+#EXTINF:-1 group-title="🎭 Драма", татами/сша,великобритания,грузия(2023)
+https://www.dropbox.com/scl/fi/sno0e6l5x6rjig2ybidy5/Tatami-42977_-anwap.org.mp4?rlkey=zgdoxzm6j9ct5ry0yezj0o8ge&st=p1eweje6&dl=1
+#EXTINF:-1 group-title="🎭 Драма", vulkan ishcanul/gvatemala-france/2015 
+https://www.dropbox.com/scl/fi/2zn7u7j2po0gunhoaqxnm/Vulkan_Ishkanul-17089_-anwap.org.mp4?rlkey=wm6piccmid9ximdn1kmuk4r3i&st=o7jq0w23&dl=1
+#EXTINF:-1 group-title="🎭 Драма",ДОРОГА В МАНДАЛАЙ/ТаЙВАНЬ_МЬЯНМА/2016
+https://www.dropbox.com/scl/fi/8gf6u99bplg7858jaqhtd/Doroga_v_Mandalaj-21841_-anwap.org.mp4?rlkey=xx70tnv1oif2evzk8w2xrbgt7&st=xzpg87t7&dl=1
+#EXTINF:-1 group-title="🎭 Драма", Между Дели и Лахором/Индия_Фиджи/2014
+https://www.dropbox.com/scl/fi/982viw9szt6aq9bgvheor/Mezhdu_Deli_i_Lahorom-12572_-anwap.org.mp4?rlkey=tezt9xbw0cu83312n2nub986m&st=my38hfxw&dl=1
+#EXTINF:-1 group-title="🎭 Драма", პაჰუნა: პატარა სტუმრები/NEPAL-INDIA/2017
+https://www.dropbox.com/scl/fi/b3bl35ozob28ls7pnnekk/Pahuna_The_Little_Visitors-22806_-anwap.org.mp4?rlkey=lqnrxkwcrj2mkkz2l0buv6f94&st=rvbx40ic&dl=1
+#EXTINF:-1 group-title="🎭 Драма",Большие приключения в Африке/РУАНДА/2010
+https://www.dropbox.com/scl/fi/cq7m7f69sohuk2li2id6h/Bolqshie_priklyucheniya_v_Afrike-7999_-anwap.org.mp4?rlkey=rcr1em3d1hw92aewvbzkj0r3g&st=dlb70a07&dl=1
+#EXTINF:-1 group-title="🎭 Драма", Нация храбрецов (Храбрая нация)ANGOLA-FRANCE/2022
+https://www.dropbox.com/scl/fi/sati7c8nb10jp8siyoedm/Naciya_hrabrecov-38629_-anwap.org.mp4?rlkey=nsxq9nxht3vrm1g36khkulkx0&st=p2lp9zbf&dl=1
+#EXTINF:-1 group-title="🎭 Драма", ложь во спасение/кения.индия.сша/2014
+https://www.dropbox.com/scl/fi/tahzco5cwznvsuq4u19ri/Lozhq_vo_spasenie-12258_-anwap.org.mp4?rlkey=to3l0hw4vaxzg74hoyptbu2cs&st=xfczv947&dl=1
 #EXTINF:-1 group-title="🎭 Драма",Тимбукту/mavritania,france/2014
 https://www.dropbox.com/scl/fi/bld0fgzbpwlk7wqozqecu/Timbuktu-13549_-anwap.org.mp4?rlkey=khggbbyxrdh21b2v4gty52pen&st=pqi6cwl8&dl=1
 #EXTINF:-1 group-title="🎭 Драма",Учение Миларепы/ ბუტანი/2005
 https://www.dropbox.com/scl/fi/ep0colo0zz6is9tb5ww4p/Uchenie_Milarepy-15851_-anwap.org.mp4?rlkey=kp57ndh5oj2jeu79jtf4udmib&st=17fmj2vv&dl=1
 #EXTINF:-1 group-title="🎬comedy",Призрак в клетке/ინდონეზია/2026
 https://www.dropbox.com/scl/fi/n6lxfk4ifmd4x1mxq0jlk/Prizrak_v_kletke-48720_-anwap.org.mp4?rlkey=yr4euxlcvjap46zzxv79066jx&st=i0e133jz&dl=1
+#EXTINF:-1 group-title="🎬comedy",Я, «Победа» и Берлин/ukraina/2024
+https://www.dropbox.com/scl/fi/bnvdufkwgk6dv3a9xfb7q/YA_Pobeda_i_Berlin-42631_-anwap.org.mp4?rlkey=pjlw7v47acwpjlrkaf8xd0mgc&st=08gul66a&dl=1
+#EXTINF:-1 group-title="🎬comedy",Орсай/paragvai/2019
+https://www.dropbox.com/scl/fi/oq57odt3mrbmwhnbgqjrh/Orsai-30612_-anwap.org.mp4?rlkey=wzoy7ewsif8ai7qh4gdyck4vg&st=m141nxv2&dl=1
+#EXTINF:-1 group-title="🎬comedy", უჩინარი ბიჭი
+https://www.dropbox.com/scl/fi/7hcaent4cx0q56kkg18cj/Recording-2026-10-08-204303.mp4?rlkey=ymohkziqv67of7krrnx0njb6w&st=msoeo7az&dl=1
 #EXTINF:-1 group-title="🎬comedy",Картошка Потахто/GANA/2017
 https://www.dropbox.com/scl/fi/k2rxtiz2a0lr67g4y797s/Potato_Potahto-24334_-anwap.org.mp4?rlkey=v4ysl3o65lwvhgq5q3fs3e8d3&st=pzk4skxd&dl=1
 #EXTINF:-1 group-title="🎬comedy",Филипиньяна/singapur-fillippin/2026
 https://www.dropbox.com/scl/fi/9hstczsvbtmrilkm0whx4/Filipiana-48824_-anwap.org.mp4?rlkey=ll5ucg7bkrbbcumog5dj0d8bt&st=ltaan5ky&dl=1
+#EXTINF:-1 group-title="🎬comedy",Банда любовниц/Гана\2018
+https://www.dropbox.com/scl/fi/i5xbdfgk8fkxpayyz6u4u/Sidechic_Gang-22181_-anwap.org.mp4?rlkey=tjwob2r9kimmjg9tahrmerxbu&st=5ajur4jz&dl=1
+#EXTINF:-1 group-title="🎬comedy", Africa United/руанда/2010
+https://www.dropbox.com/scl/fi/cq7m7f69sohuk2li2id6h/Bolqshie_priklyucheniya_v_Afrike-7999_-anwap.org.mp4?rlkey=rcr1em3d1hw92aewvbzkj0r3g&st=c6lywzxt&dl=1
+#EXTINF:-1 group-title="🎬comedy",toubab/Германия/сенегал/2021
+https://www.dropbox.com/scl/fi/6fneqypjsnyxuter1nxjw/Tubab-36161_-anwap.org.mp4?rlkey=vyiq9xj7p0kju9tdqblzop6y8&st=7zhcdsl0&dl=1
 #EXTINF:-1 group-title="🎬comedy", Фалько/ALBANIA/2019
 https://www.dropbox.com/scl/fi/7hstq6f1lhhbedohlshi4/Falco-28507_-anwap.org.mp4?rlkey=1b6i9qebofg9xweefudchqfz8&st=so3gynrq&dl=1
 #EXTINF:-1 group-title="❤️ мелодрама",Вкус свободы/უკრაინა/2023
