@@ -3174,6 +3174,8 @@ http://stream.vivamax.pro/ShantSerialOrig/index.m3u8?token=b0f0eba996b9
 http://stream.vivamax.pro/ShantMusicOrig/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-type="flussonic" tvg-id="Shant Kids" tvg-name="AM: Shant Kids" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantkids.png",Shant Kids [Orig]
 http://stream.vivamax.pro/ShantKidsOrig/index.m3u8?token=b0f0eba996b9
+#EXTINF:-1 group-title="☦️ლიმონარი-მართლმადიდებლური ვიდეოები", მეუდაბნოე მამათა ცხოვრება
+https://www.dropbox.com/scl/fi/178h8jqmd179eoi6m6f11/.mp4?rlkey=jh443mk0p5xtz49mgpntn7z5p&st=ovb3bcxm&dl=1
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1TV GE (GE)" tvg-name="GE: 1 Arkhi HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/1tvge.png",პირველი არხი
 http://stream.vivamax.pro/1TV_GE/index.m3u8?token=b0f0eba996b9
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="1TV Sport (GE)" tvg-name="GE: 1 Arkhi Sport HD" group-title="Georgia 🇬🇪" tvg-logo="http://logo.vivamax.pro/logo/1tvsport.png",პირველი არხი სპორტი
