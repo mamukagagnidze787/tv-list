@@ -146,4 +146,5 @@ https://live.postv.media/stream/index.m3u8
 https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-
+#EXTINF:-1 group-title="ვიდეო",ჩვენები
+https://www.dropbox.com/scl/fi/6vegp4p0cyhy08gopwpj0/.mp4?rlkey=uueidauf5gswpj58w9ccs0ewu&st=0tox5dy4&dl=1
